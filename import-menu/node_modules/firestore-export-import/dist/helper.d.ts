@@ -1,0 +1,40 @@
+import { GeoPoint } from "firebase-admin/firestore";
+export interface IImportOptions {
+    dates?: string[];
+    autoParseDates?: boolean;
+    geos?: string[];
+    autoParseGeos?: boolean;
+    refs?: string[];
+    showLogs?: boolean;
+}
+export interface IExportOptions {
+    docsFromEachCollection?: number;
+    refs?: string[];
+    queryCollection?: (ref: FirebaseFirestore.CollectionReference) => Promise<FirebaseFirestore.QuerySnapshot>;
+}
+export declare const makeGeoPoint: (geoValues: {
+    _latitude: number;
+    _longitude: number;
+}) => GeoPoint;
+/**
+ * Convert time array in a Date object
+ * @param firebaseTimestamp
+ */
+export declare const makeTime: (firebaseTimestamp: {
+    _seconds: number;
+    _nanoseconds: number;
+}) => Date;
+export declare const getPath: (obj?: {
+    path?: string;
+}) => string | {
+    path?: string;
+};
+/**
+ * Traverse given data, until there is no sub node anymore
+ * Executes the callback function for every sub node found
+ * @param data
+ * @param callback
+ */
+export declare const traverseObjects: (data: any, callback: Function) => void;
+export declare const parseAndConvertDates: (data: object) => void;
+export declare function parseAndConvertGeos(data: object): void;
