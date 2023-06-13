@@ -69,6 +69,7 @@ app.get("/read/menu", (req, res) => {
           "Bahan-Bahan": doc.data()["Bahan-Bahan"],
           "Langkah Pembuatan": doc.data()["Langkah Pembuatan"],
           "Jumlah Kalori per porsi (kkal)": doc.data()["Jumlah Kalori per porsi (kkal)"],
+          "imageURL": doc.data()["imageURL"],
         };
         response.push(selectedItem);
       });
