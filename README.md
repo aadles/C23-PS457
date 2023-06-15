@@ -1,2 +1,4 @@
-# capstone_bangkit23
-TasteMatch -  Indonesian Meal Recommendation with Personalized Recipe - C23-PS457
+Cloud Computing
+
+Creating RestAPI for menu in mobile application and deploying to Google Cloud Platform using Cloud Function and using Firebase for database.
+
