@@ -65,10 +65,10 @@ app.get("/read/menu", (req, res) => {
       querySnapshot.forEach((doc) => {
         const selectedItem = {
           "id": doc.id,
-          "Nama Makanan": doc.data()["Nama Makanan"],
-          "Bahan-Bahan": doc.data()["Bahan-Bahan"],
-          "Langkah Pembuatan": doc.data()["Langkah Pembuatan"],
-          "Jumlah Kalori per porsi (kkal)": doc.data()["Jumlah Kalori per porsi (kkal)"],
+          "menu": doc.data()["menu"],
+          "bahan": doc.data()["bahan"],
+          "langkahPembuatan": doc.data()["langkahPembuatan"],
+          "kalori": doc.data()["kalori"],
           "imageURL": doc.data()["imageURL"],
         };
         response.push(selectedItem);

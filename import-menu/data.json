@@ -1,8 +1,8 @@
 {
   "menu": [
     {
-      "Menu": "Tahu Bulat",
-      "Bahan-Bahan": [
+      "menu": "Tahu Bulat",
+      "bahan": [
         "11 buah tahu putih dan sudah direbus",
         "1 buah wortel",
         "2 tangkai daun bawang",
@@ -14,7 +14,7 @@
         "secukupnya penyedap rasa ayam",
         "2 sdm bawang goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Hancurkan tahu menggunakan sendok hingga halus.",
         "- Wortel dipotong halus menggunakan pemarut.",
         "- Masukkan telur, daun bawang, seledri, bawang putih halus, garam, gula, penyedap rasa ayam, garam, dan bawang goreng.",
@@ -24,12 +24,12 @@
         "- Jika sudah berubah warna menjadi coklat keemasan, balik tahu agar tidak pecah, dan goreng sisi lainnya.",
         "- Angkat dan siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 880,
+      "kalori": 880,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tahu%20Bulat.JPG?alt=media&token=94d26c0c-829b-452c-ab3f-967cfeb891a7&_gl=1*xibuyn*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDUyMzUuMC4wLjA."
     },
     {
-      "Menu": "Tahu Kecap Pedas",
-      "Bahan-Bahan": [
+      "menu": "Tahu Kecap Pedas",
+      "bahan": [
         "5 siung bawang putih",
         "3 siung bawang merah",
         "Sedikit kunyit",
@@ -42,7 +42,7 @@
         "Secukupnya minyak goreng",
         "Secukupnya air"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Haluskan bahan-bahan seperti bawang merah, bawang putih, kunyit, cabe rawit, dan lada.",
         "- Goreng tahu setengah masak. Jangan terlalu masak, nanti bumbunya tidak menyerap ke tahu.",
         "- Tumis bumbu yang sudah dihaluskan dengan sedikit minyak goreng sampai harum bumbunya keluar.",
@@ -52,12 +52,12 @@
         "- Koreksi rasa, setelah rasanya pas, tambahkan kecap secukupnya.",
         "- Setelah air sedikit mengurang, matikan kompor dan tahu siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 400,
+      "kalori": 400,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tahu%20Bulat.JPG?alt=media&token=94d26c0c-829b-452c-ab3f-967cfeb891a7&_gl=1*xibuyn*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDUyMzUuMC4wLjA."
     },
     {
-      "Menu": "Tahu Tumis Sawi Saori",
-      "Bahan-Bahan": [
+      "menu": "Tahu Tumis Sawi Saori",
+      "bahan": [
         "3 balok tahu",
         "2 ikat sawi",
         "1 sachet saos tiram (saori)",
@@ -69,7 +69,7 @@
         "Secukupnya gula",
         "50 ml air"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Potong-potong bawang merah, bawang putih (serong), cabe rawit, dan tahu (dadu), potong sawi memanjang dan cuci bersih.",
         "- Siapkan pengorengan dengan sedikit minyak sayur untuk menumis bawang dan cabe sampai harum.",
         "- Beri sedikit air, masukkan tahu sampai airnya mendidih dan tahu matang.",
@@ -77,12 +77,12 @@
         "- Tes rasa dan angkat.",
         "- Siap di Sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 600,
+      "kalori": 600,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tahu%20Tumis%20Sawi%20Saori.jpg?alt=media&token=34542a60-b289-49a4-87b8-58a6bdcf07c3&_gl=1*gg906d*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc3MzMuMC4wLjA."
     },
     {
-      "Menu": "Perkedel Tahu",
-      "Bahan-Bahan": [
+      "menu": "Perkedel Tahu",
+      "bahan": [
         "2 tahu putih",
         "1 butir telur ayam",
         "5 butir bawang merah",
@@ -93,7 +93,7 @@
         "secukupnya gula dan garam",
         "Minyak goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Hancurkan tahu dan sisihkan.",
         "- Ulek bawang merah, bawang putih, ketumbar, kunyit, kencur, gula, garam hingga halus.",
         "- Campur tahu dengan bumbu yang dihaluskan, setelah itu masukkan telur.",
@@ -101,12 +101,12 @@
         "- Kalau sudah berwarna kuning keemasan, angkat dan tiriskan.",
         "- Sajikan sesuai selera."
       ],
-      "Jumlah Kalori per porsi (kkal)": 590,
+      "kalori": 590,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Perkedel%20Tahu.jpg?alt=media&token=99420346-9db1-424e-82c7-bded43521cb2&_gl=1*1v48vgz*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcxMjguMC4wLjA."
     },
     {
-      "Menu": "Balado Telur Tahu",
-      "Bahan-Bahan": [
+      "menu": "Balado Telur Tahu",
+      "bahan": [
         "5 butir telur (2 direbus, 3 diceplok)",
         "2 tahu putih (iris kotak-kotak jangan terlalu kecil)",
         "5 cabe merah",
@@ -121,7 +121,7 @@
         "Secukupnya kecap",
         "Air secukupnya (sesuai selera)"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus 2 telur (sebelum direbus bersihkan dulu sampai bersih).",
         "- Sambil menunggu telur direbus, kita tumbuk bumbunya (cabe, bawang merah, bawang putih).",
         "- Setelah selesai, mari kita menggoreng tahu, telur ceploknya, dan telur yang sudah direbus (jika mau digoreng lagi juga tidak apa-apa), angkat jika sudah matang.",
@@ -129,12 +129,12 @@
         "- Lalu masukkan tahu dan telur ke dalam wajan, aduk-aduk tambahkan air lagi sesuai selera.",
         "- Bumbui dengan garam, micin, lada, penyedap rasa, sedikit gula, dan 2 tetes kecap, aduk-aduk hingga halus. Sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 645,
+      "kalori": 645,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Balado%20Telur%20Tahu.jpg?alt=media&token=242b6a07-8eb3-4ddb-a3f0-4dbf9a802694&_gl=1*bv9vkt*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU2MTIuMC4wLjA."
     },
     {
-      "Menu": "Sup Tahu Pedas",
-      "Bahan-Bahan": [
+      "menu": "Sup Tahu Pedas",
+      "bahan": [
         "4 buah tahu putih/kuning",
         "125 gram fillet ayam potong dadu",
         "Telur puyuh rebus kupas secukupnya",
@@ -156,7 +156,7 @@
         "7 buah cabe kering/sesuai selera",
         "2 buah tomat merah rebus dahulu"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Haluskan bumbu halus.",
         "- Panaskan margarin, tumis bawang bombay hingga harum.",
         "- Masukkan bumbu halus, beri daun jeruk, tumis hingga harum.",
@@ -166,12 +166,12 @@
         "- Masak hingga bumbu meresap dan ayam empuk.",
         "- Masukkan daun seledri, daun bawang yang bagian hijau, angkat sajikan bersama taburan bawang merah goreng."
       ],
-      "Jumlah Kalori per porsi (kkal)": 907,
+      "kalori": 907,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Sup%20Tahu%20Pedas.jpg?alt=media&token=4183328b-51f2-4816-ada7-82dabfd401eb&_gl=1*1yqj0ww*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc1NzcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Sambal Tahu",
-      "Bahan-Bahan": [
+      "menu": "Sambal Tahu",
+      "bahan": [
         "1 bungkus tahu putih kotak (potong 4 kecil)",
         "Secukupnya cabe merah (segenggam)",
         "Secukupnya cabe rawit (opsional jika suka pedas)",
@@ -186,7 +186,7 @@
         "Bubuk Merica",
         "Penyedap rasa"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Untuk tahu:",
         "- Rebus tahu dengan garam/penyedap hingga meresap kedalam.",
         "- Tuangkan minyak secukupnya di wajan yang berbeda, goreng tahu hingga menguning.",
@@ -200,12 +200,12 @@
         "- Setelah itu tiriskan ke dalam wadah.",
         "- Sambal tahu ala rumahan siap untuk disantap."
       ],
-      "Jumlah Kalori per porsi (kkal)": 700,
+      "kalori": 700,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Sambal%20Tahu.jpg?alt=media&token=76f3c389-e845-4fcf-80c2-21e631d9aaf6&_gl=1*1em1951*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDczMDEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Tahu Tempe Isi Mercon",
-      "Bahan-Bahan": [
+      "menu": "Tahu Tempe Isi Mercon",
+      "bahan": [
         "1 papan tempe",
         "4 buah tahu putih (dibelah jadi 2)",
         "Tepung bumbu serbaguna merk apa saja",
@@ -216,7 +216,7 @@
         "Secukupnya garam",
         "Minyak goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Goreng tahu setengah matang. Angkat dan tiriskan.",
         "- Potong tempe kurang lebih 4 cm belah tengahnya jangan sampai putus.",
         "- Lakukan hal yang sama dengan tahu.",
@@ -230,12 +230,12 @@
         "- Setelah kecoklatan, angkat dan tiriskan.",
         "- Tahu tempe isi mercon siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 989,
+      "kalori": 989,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tahu%20Tempe%20Isi%20Mercon.jpg?alt=media&token=840a4159-20a7-4754-bf0f-d05a53d419e1&_gl=1*1yt2iz*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc2ODEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Tahu Cabe Garam",
-      "Bahan-Bahan": [
+      "menu": "Tahu Cabe Garam",
+      "bahan": [
         "15 buah tahu putih (potong kotak-kotak kecil)",
         "10 siung bawang merah (iris tipis)",
         "8 siung bawang putih (iris tipis)",
@@ -245,18 +245,18 @@
         "Secukupnya terigu",
         "Garam sesuai selera"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Lumuri tahu yang telah dipotong kotak kecil dengan terigu (tanpa air). Goreng. Sisihkan.",
         "- Tumis bawang merah, bawang putih, cabe merah, dan cabe rawit hingga harum dan setengah layu.",
         "- Masukkan tahu yang telah digoreng, daun jeruk, dan garam. Aduk hingga semua tercampur rata.",
         "- Koreksi rasa. Sajikan hangat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1571,
+      "kalori": 1571,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tahu%20Cabe%20Garam.jpg?alt=media&token=3cf82f7c-c7aa-47e8-8e8f-cbda697a98df&_gl=1*14zkqun*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc2MjguMC4wLjA."
     },
     {
-      "Nama Makanan": "Balado Telur Tahu Teri Pete Pedas",
-      "Bahan-Bahan": [
+      "menu": "Balado Telur Tahu Teri Pete Pedas",
+      "bahan": [
         "6 butir telur",
         "1 potong tahu",
         "1/2 ons teri",
@@ -270,37 +270,37 @@
         "Garam",
         "Secukupnya air"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus telur, lalu goreng sekalian tahu dan teri. Pisah-pisah gorengannya, kemudian tiriskan.",
         "- Haluskan semua bumbu (bawang-bawang, kecuali cabe, digoreng terlebih dahulu sebelum di-blender).",
         "- Tumis bumbu hingga harum, masukkan garam, gula, penyedap, dan sedikit air. Tes rasa.",
         "- Masukkan telur dan tahu, masak sebentar. Setelah hampir matang, masukkan teri dan pete.",
         "- Angkat dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 774,
+      "kalori": 774,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Balado%20Telur%20Tahu%20Teri%20Pete%20Pedas.jpg?alt=media&token=2aa1622f-0be4-4ad5-a305-30e9b0b45928&_gl=1*11vx31k*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU1NjkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Tahu Tempe Penyet",
-      "Bahan-Bahan": [
+      "menu": "Tahu Tempe Penyet",
+      "bahan": [
         "100 gram tempe",
         "100 gram tahu putih",
         "Sambel kemangi",
         "Secukupnya minyak goreng",
         "Beberapa irisan timun dan kemangi segar"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Potong-potong tahu dan tempe sesuai selera.",
         "- Goreng hingga kuning kecoklatan, kemudian penyet-penyet di atas sambal kemangi, dan lumuri seluruh bagian tempe maupun tahu dengan sambal kemangi.",
         "- Tata di piring saji, tambahkan irisan timun dan kemangi segar.",
         "- Sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 407,
+      "kalori": 407,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tahu%20Tempe%20Penyet.jpeg?alt=media&token=5dab00ac-92e9-45fc-b49b-c9c163cf47f4&_gl=1*ym9z6h*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc3MDQuMC4wLjA."
     },
     {
-      "Nama Makanan": "Telur Kornet",
-      "Bahan-Bahan": [
+      "menu": "Telur Kornet",
+      "bahan": [
         "1/2 kaleng kornet",
         "2-3 buah bawang prei",
         "2 buah telur",
@@ -310,7 +310,7 @@
         "1/2 sdt merica",
         "1/2 sdm saus tiram"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Campurkan kornet, telur, bawang prei, dan cabe yang sudah diiris tipis.",
         "- Tambahkan garam, merica, saus tiram secukupnya, dan tepung terigu.",
         "- Panaskan minyak dalam wajan.",
@@ -318,12 +318,12 @@
         "- Cek rasa dan sesuaikan jika diperlukan.",
         "- Telur Kornet siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 525,
+      "kalori": 525,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Telur%20Kornet.jpeg?alt=media&token=ca3f99cc-3a0c-4b39-85f7-3adec4d9f531&_gl=1*142kgsp*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc4MDMuMC4wLjA."
     },
     {
-      "Nama Makanan": "Telur Dadar Padang",
-      "Bahan-Bahan": [
+      "menu": "Telur Dadar Padang",
+      "bahan": [
         "3 butir telur ayam (lebih enak pakai telur bebek)",
         "4 sdm kelapa parut sangrai (asli: 3 sdm)",
         "2 sdm tepung beras larutkan dengan sedikit air",
@@ -338,7 +338,7 @@
         "1 sdt ketumbar bubuk",
         "1/2 sdt lada bubuk"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Kocok telur sebentar saja, jika kelamaan telurnya kempes saat didadar.",
         "- Masukkan bumbu halus, aduk rata.",
         "- Tambahkan bahan lainnya, beri garam dan kaldu bubuk, tes rasa.",
@@ -348,12 +348,12 @@
         "- Angkat dan tiriskan.",
         "- Sajikan saat masih hangat dengan nasi panas."
       ],
-      "Jumlah Kalori per porsi (kkal)": 615,
+      "kalori": 615,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Telur%20Dadar%20Padang.jpg?alt=media&token=65e75fa8-5ca8-475f-be4b-fb5be8ecd457&_gl=1*3dpsyv*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc3NjkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Ceplok Telur Saus Asam Manis",
-      "Bahan-Bahan": [
+      "menu": "Ceplok Telur Saus Asam Manis",
+      "bahan": [
         "2 butir telur",
         "1 ruas wortel, iris korek api",
         "1 siung bawang putih, geprek dan cacah halus",
@@ -364,18 +364,18 @@
         "Seujung sdt gula",
         "30 ml air"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Ceplok telur, sisihkan.",
         "- Tumis bawang putih dan bawang bombay sampai harum, lalu masukkan wortel, tumis sampai agak layu.",
         "- Kecilkan api, tambahkan air, dan masukkan duo saus serta bumbu perasa lain.",
         "- Aduk rata dan masak sampai meletup-letup, lalu tuangkan saus ke telur ceplok."
       ],
-      "Jumlah Kalori per porsi (kkal)": 270,
+      "kalori": 270,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Ceplok%20Telur%20Saus%20Asam%20Manis.jpg?alt=media&token=49593482-7569-4fde-a732-9514fe677d95&_gl=1*1uydcph*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU5MDYuMC4wLjA."
     },
     {
-      "Nama Makanan": "Buncis Cah Telur",
-      "Bahan-Bahan": [
+      "menu": "Buncis Cah Telur",
+      "bahan": [
         "20 buah buncis, iris tipis",
         "4 siung bawang putih, cincang",
         "1/4 bawang Bombay, iris halus",
@@ -385,19 +385,19 @@
         "Secukupnya air panas",
         "1-2 butir telur"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Tumis bawang putih, bawang Bombay, dan cabe merah sampai harum. Masukkan bakso atau sosis, oseng-oseng.",
         "- Masukkan buncis yang sudah diiris, oseng sampai berubah warna.",
         "- Tambahkan sedikit air panas, biarkan sampai agak matang.",
         "- Masukkan bumbu penyedap dan tes rasa.",
         "- Terakhir, tepikan buncisnya dan masukkan telurnya. Oseng-oseng telur dan balurkan dengan buncisnya."
       ],
-      "Jumlah Kalori per porsi (kkal)": 400,
+      "kalori": 400,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Buncis%20Cah%20Telur.jpg?alt=media&token=e8886d75-40b3-409c-985f-72e1ed9bcd17&_gl=1*11m5tym*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU4NjkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Telur Dadar Kilat",
-      "Bahan-Bahan": [
+      "menu": "Telur Dadar Kilat",
+      "bahan": [
         "2 butir telur",
         "2 siung bawang merah, iris tipis",
         "1 cabe rawit, iris tipis",
@@ -405,19 +405,19 @@
         "Secukupnya garam",
         "Mentega/minyak"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Campurkan bawang merah, cabe, dan daun bawang dengan telur. Kocok lepas. Beri garam secukupnya.",
         "- Siapkan teflon, beri sedikit mentega atau minyak.",
         "- Masukkan adonan telur, lebarkan. Tunggu hingga sisi bawah matang kemudian balik.",
         "- Lipat perlahan dan masak beberapa menit, kemudian angkat.",
         "- Potong sesuai selera dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 320,
+      "kalori": 320,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Telur%20Dadar%20Kilat.JPG?alt=media&token=698b1ff8-b4fa-4953-b7a4-a648b55cd263&_gl=1*wc4t3s*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc3NDkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Semur Telur Simpel",
-      "Bahan-Bahan": [
+      "menu": "Semur Telur Simpel",
+      "bahan": [
         "7 butir telur ayam",
         "Cabe merah (iris serong)",
         "1/2 sdm gula merah",
@@ -429,18 +429,18 @@
         "2 butir kemiri",
         "1/4 sdt merica"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Ceplok telur satu persatu (telur yang mau direbus juga boleh).",
         "- Panaskan sedikit minyak, tumis bumbu halus dan cabe merah hingga harum.",
         "- Beri sedikit air, masukkan telur ceplok, tambahkan kecap manis, garam, dan gula merah.",
         "- Tunggu air sedikit menyusut, koreksi rasa, dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 740,
+      "kalori": 740,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Semur%20Telur%20Simpel.jpg?alt=media&token=d1d87963-f132-43ec-9fd5-20a9060fc5ee&_gl=1*5jx0yv*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc0MjEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Telur Dadar Tahu",
-      "Bahan-Bahan": [
+      "menu": "Telur Dadar Tahu",
+      "bahan": [
         "2 butir telur ukuran sedang",
         "3 buah tahu putih kecil",
         "1 tangkai daun bawang",
@@ -449,7 +449,7 @@
         "Merica",
         "2 buah cabe rawit merah (buang bijinya, iris tipis) (opsional)"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Kocok telur. Sisihkan.",
         "- Potong tahu menjadi kecil-kecil.",
         "- Ulek bawang putih.",
@@ -460,12 +460,12 @@
         "- Balik telur.",
         "- Sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 400,
+      "kalori": 400,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Telur%20Dadar%20Tahu.jpg?alt=media&token=659d2a27-873e-4fef-94f6-035d7d28c23f&_gl=1*gu91go*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc3ODQuMC4wLjA."
     },
     {
-      "Nama Makanan": "Nasi Sosis Gulung Telur",
-      "Bahan-Bahan": [
+      "menu": "Nasi Sosis Gulung Telur",
+      "bahan": [
         "Secukupnya nasi",
         "2 telur",
         "2 sosis",
@@ -473,19 +473,19 @@
         "Penyedap rasa",
         "Margarin"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Siapkan nasi dan tambahkan sedikit garam hingga merata.",
         "- Goreng sosis sambil menunggu sosis matang, campurkan telur, garam, dan penyedap rasa, kemudian kocok sampai berbuih.",
         "- Panaskan margarin di atas teflon, kemudian tuang kocokan telur tadi hingga matang.",
         "- Angkat telur, dan ratakan nasi di atasnya, kemudian letakkan sosis dan gulung.",
         "- Terakhir, potong sesuai selera."
       ],
-      "Jumlah Kalori per porsi (kkal)": 630,
+      "kalori": 630,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Nasi%20Sosis%20Gulung%20Telur.jpg?alt=media&token=7a3a6a95-af94-4417-a157-8ccb4fe73e71&_gl=1*16fp1c4*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY5NTguMC4wLjA."
     },
     {
-      "Nama Makanan": "Tim Telur",
-      "Bahan-Bahan": [
+      "menu": "Tim Telur",
+      "bahan": [
         "1 butir telur",
         "40 gr ayam cincang",
         "1 sdt minyak wijen",
@@ -494,17 +494,17 @@
         "Garam",
         "Merica"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Bumbui ayam dengan minyak wijen dan kecap asin, lalu kukus selama 20 menit.",
         "- Kocok lepas telur, air, garam, dan merica, lalu saring agar tidak amis. Masukkan ke dalam ayam.",
         "- Kukus selama 5 menit dengan api kecil."
       ],
-      "Jumlah Kalori per porsi (kkal)": 200,
+      "kalori": 200,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tim%20Telur.jpg?alt=media&token=76c4086f-7273-4c83-be07-608d2fbd6e7e&_gl=1*1llbh7s*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc4OTIuMC4wLjA."
     },
     {
-      "Nama Makanan": "Tempe Katsu",
-      "Bahan-Bahan": [
+      "menu": "Tempe Katsu",
+      "bahan": [
         "Tempe",
         "1 bungkus tepung bumbu serba guna",
         "1 ons tepung roti",
@@ -512,7 +512,7 @@
         "1/2 sdt garam (sesuai selera)",
         "2 butir telur"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus tempe hingga matang.",
         "- Haluskan tempe yang sudah direbus.",
         "- Campurkan 1/2 bungkus tepung bumbu, garam, penyedap rasa, dan tempe yang telah dihaluskan.",
@@ -523,12 +523,12 @@
         "- Balurkan tepung roti pada tempe.",
         "- Goreng hingga berwarna sedikit kecoklatan, tiriskan, dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 315,
+      "kalori": 315,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tempe%20Katsu.jpg?alt=media&token=f9f29b54-830e-4615-8d49-7899b35361f1&_gl=1*uxiydb*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc4NTkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Tempe Cabe Garam",
-      "Bahan-Bahan": [
+      "menu": "Tempe Cabe Garam",
+      "bahan": [
         "2 buah tempe dipotong dadu",
         "3 sdm tepung maizena",
         "2 siung bawang putih",
@@ -538,19 +538,19 @@
         "Secukupnya penyedap rasa",
         "Secukupnya minyak goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Campur tempe yang sudah dipotong dadu dengan tepung maizena dan garam secukupnya.",
         "- Goreng tempe sampai kecoklatan atau garing.",
         "- Tumis bawang putih yang sudah dicincang halus dengan cabe, juga daun bawang. Tambahkan penyedap rasa.",
         "- Masukkan tempe ke dalam tumisan, aduk sampai merata.",
         "- Sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 630,
+      "kalori": 630,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tempe%20Cabe%20Garam.jpeg?alt=media&token=819efe25-8609-4341-994f-b1d3bf8e9f0a&_gl=1*18eiq8r*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc4MzYuMC4wLjA."
     },
     {
-      "Nama Makanan": "Bola Bola Tempe",
-      "Bahan-Bahan": [
+      "menu": "Bola Bola Tempe",
+      "bahan": [
         "1 papan tempe",
         "Tepung terigu",
         "2 butir telur",
@@ -560,7 +560,7 @@
         "Garam",
         "Gula"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus tempe selama sekitar 10-15 menit.",
         "- Haluskan tempe, kemudian masukkan 1 butir telur, 5 sendok makan tepung terigu, dan sedikit air. Aduk sampai tidak lengket. Jika adonan masih basah, bisa ditambahkan tepung terigu lagi.",
         "- Bentuk adonan tempe menjadi bulat-bulat.",
@@ -568,12 +568,12 @@
         "- Goreng bola-bola tempe yang sudah dibalur tepung roti hingga berwarna kecoklatan.",
         "- Bola-bola tempe crispy siap dinikmati."
       ],
-      "Jumlah Kalori per porsi (kkal)": 941,
+      "kalori": 941,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Bola%20Bola%20Tempe.jpg?alt=media&token=b89d55d8-dbb6-47f4-a078-d18ffc0c1aaa&_gl=1*1grui32*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU3NDcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Orek Tempe Asam Manis",
-      "Bahan-Bahan": [
+      "menu": "Orek Tempe Asam Manis",
+      "bahan": [
         "Tempe (potong sesuai selera)",
         "Cabe merah besar",
         "Cabe rawit",
@@ -586,7 +586,7 @@
         "Lengkuas",
         "Daun salam"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Panaskan minyak, goreng tempe yang sudah dipotong sesuai selera hingga matang, kemudian tiriskan setelah matang.",
         "- Iris bawang merah, bawang putih, cabe rawit, dan cabe merah besar.",
         "- Panaskan minyak goreng, kemudian tumis bumbu yang sudah diiris hingga matang. Tambahkan daun salam dan lengkuas, tumis hingga matang dan harum.",
@@ -594,12 +594,12 @@
         "- Masukkan tempe yang sudah digoreng tadi, aduk hingga rata. Tambahkan sedikit air.",
         "- Tunggu hingga air meresap pada tempe, bila sudah terlihat melengket dengan semua bumbunya, angkat dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 500,
+      "kalori": 500,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Orek%20Tempe%20Asam%20Manis.jpg?alt=media&token=ec9e3816-96f2-49f0-99c4-d3f3e93cc26f&_gl=1*dwkha9*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY5NzkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Bakso Tempe",
-      "Bahan-Bahan": [
+      "menu": "Bakso Tempe",
+      "bahan": [
         "1 papan tempe",
         "2 butir telur",
         "8 sendok makan tepung terigu",
@@ -609,7 +609,7 @@
         "1 sendok teh garam",
         "1/3 sendok teh ketumbar halus"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus terlebih dahulu tempe selama sekitar 20 menit (kira-kira sampai empuk), kemudian tiriskan.",
         "- Ulek bumbu halus, kocok telur, dan tambahkan lada bubuk.",
         "- Hancurkan tempe yang telah direbus tadi, campurkan ke adonan bumbu yang sudah diulek.",
@@ -619,19 +619,19 @@
         "- Tunggu selama 15 menit atau hingga bakso muncul ke permukaan.",
         "- Angkat dan sajikan bersama saos sambal."
       ],
-      "Jumlah Kalori per porsi (kkal)": 699,
+      "kalori": 699,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Bakso%20Tempe.jpg?alt=media&token=34ddd746-f02f-43e3-a3ce-326e985628d8&_gl=1*oxqcek*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU1MzYuMC4wLjA."
     },
     {
-      "Nama Makanan": "Kering Tempe",
-      "Bahan-Bahan": [
+      "menu": "Kering Tempe",
+      "bahan": [
         "Bawang merah",
         "Bawang putih",
         "Kecap manis",
         "Tempe",
         "Secukupnya garam"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Panaskan minyak.",
         "- Iris tempe, lalu masukkan ke dalam minyak yang sudah panas.",
         "- Haluskan semua bumbu.",
@@ -640,12 +640,12 @@
         "- Tumis hingga matang.",
         "- Sajikan dalam piring."
       ],
-      "Jumlah Kalori per porsi (kkal)": 478,
+      "kalori": 478,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Kering%20Tempe.jpg?alt=media&token=0f7fa992-37ca-4449-b86b-95f71a764328&_gl=1*1itaa8m*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY1MjkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Balado Terong Tempe",
-      "Bahan-Bahan": [
+      "menu": "Balado Terong Tempe",
+      "bahan": [
         "1 buah terong",
         "1 batang tempe",
         "3 buah cabe merah besar",
@@ -655,25 +655,25 @@
         "Secukupnya gula pasir",
         "Secukupnya garam"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Potong tempe menjadi potongan sesuai selera, lalu goreng dan tiriskan.",
         "- Potong terong menjadi potongan sesuai selera, cuci bersih, lalu goreng setengah matang dan tiriskan.",
         "- Haluskan semua bumbu, kemudian goreng hingga harum. Masukkan gula dan garam, tambahkan sedikit air.",
         "- Masukkan potongan tempe dan terong yang sudah digoreng tadi, aduk-aduk sampai tercampur rata, kemudian angkat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 400,
+      "kalori": 400,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Balado%20Terong%20Tempe.jpg?alt=media&token=5b909b66-2312-452c-8fc3-36f2b2218633&_gl=1*1xkeb7l*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU2OTcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Sambal Bawang Tempe",
-      "Bahan-Bahan": [
+      "menu": "Sambal Bawang Tempe",
+      "bahan": [
         "Tempe",
         "Bawang putih",
         "Garam",
         "Minyak",
         "Cabe rawit"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Buat bumbu tempe dengan menghaluskan bawang putih dan garam.",
         "- Potong tempe menjadi kecil-kecil.",
         "- Tambahkan air ke dalam bumbu tempe, kemudian rendam tempe dalam bumbu tersebut selama 5-10 menit.",
@@ -682,12 +682,12 @@
         "- Setelah sambal jadi, campurkan tempe yang sudah digoreng, lalu ulek secara kasar.",
         "- Sambal bawang tempe siap dijadikan lauk."
       ],
-      "Jumlah Kalori per porsi (kkal)": 450,
+      "kalori": 450,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Sambal%20Bawang%20Tempe.jpg?alt=media&token=f14711f3-6734-4421-9252-77beac23d015&_gl=1*ml7ecc*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcyNzUuMC4wLjA."
     },
     {
-      "Nama Makanan": "Rolade Tempe",
-      "Bahan-Bahan": [
+      "menu": "Rolade Tempe",
+      "bahan": [
         "1 papan tempe (sekitar 300g)",
         "1/2 bawang bombai ukuran kecil, cincang kasar",
         "1/2 sendok makan kaldu ayam",
@@ -696,7 +696,7 @@
         "1 sendok makan terigu",
         "1 sendok teh lada bubuk"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Kukus tempe selama 15 menit, lalu hancurkan dengan ditumbuk atau blender.",
         "- Kocok 2 butir telur, tambahkan sedikit garam, lalu buat 2 lembar telur dadar tipis, sisihkan.",
         "- Tambahkan bawang bombai cincang pada tempe yang telah lembut, tambahkan terigu, 1 butir telur, kaldu ayam, garam, dan lada bubuk. Aduk hingga tercampur rata, lalu bagi menjadi 2 bagian.",
@@ -705,12 +705,12 @@
         "- Ulangi langkah sebelumnya untuk 1 lembar telur dadar dan 1 bagian adonan tempe lagi.",
         "- Kukus ulang selama 20 menit hingga rolade tempe matang."
       ],
-      "Jumlah Kalori per porsi (kkal)": 726,
+      "kalori": 726,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Rolade%20Tempe.jpg?alt=media&token=003b1597-1409-4e5a-9ec1-56669b5bbe8e&_gl=1*lwbs9z*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcyMDkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Perkedel Tempe",
-      "Bahan-Bahan": [
+      "menu": "Perkedel Tempe",
+      "bahan": [
         "2 buah tempe panjang",
         "2 butir telur ayam",
         "4 siung bawang putih",
@@ -723,7 +723,7 @@
         "Secukupnya putih telur untuk balutan",
         "Secukupnya minyak goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Hancurkan tempe sampai halus.",
         "- Haluskan bumbu (bawang putih, merica, garam, dan gula pasir).",
         "- Masukkan bumbu halus ke dalam tempe, tambahkan telur, irisan seledri, tepung terigu, dan bawang merah goreng.",
@@ -732,12 +732,12 @@
         "- Goreng perkedel dengan api sedang, tunggu sampai berwarna kecoklatan.",
         "- Perkedel Tempe murah meriah siap untuk dinikmati."
       ],
-      "Jumlah Kalori per porsi (kkal)": 955,
+      "kalori": 955,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Perkedel%20Tempe.jpg?alt=media&token=9334e41b-cede-4158-a2ee-7870a75ad3fd&_gl=1*hd86t3*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcxNDUuMC4wLjA."
     },
     {
-      "Nama Makanan": "Sayur Tempe dan Tahu Kecap Pedas",
-      "Bahan-Bahan": [
+      "menu": "Sayur Tempe dan Tahu Kecap Pedas",
+      "bahan": [
         "10 biji tahu",
         "1 tempe ukuran sedang",
         "15 cabe merah",
@@ -746,7 +746,7 @@
         "2 biji tomat",
         "1 botol kecil kecap manis"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Potong cabe, bawang putih, bawang merah, dan tomat.",
         "- Potong tahu dan tempe sesuai selera.",
         "- Siapkan minyak dan panaskan di wajan secukupnya.",
@@ -756,12 +756,12 @@
         "- Masukkan potongan tomat sesuai selera dan tambahkan penyedap rasa sesuai selera.",
         "- Tunggu hingga bumbu meresap sempurna, matikan kompor, dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 599,
+      "kalori": 599,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Sayur%20Tempe%20dan%20Tahu%20Kecap%20Pedas.jpg?alt=media&token=f3eefe9b-818e-47a5-bd99-9e23ea70c371&_gl=1*feh4fu*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDczODAuMC4wLjA."
     },
     {
-      "Nama Makanan": "Nasi Liwet khas Solo Jawa Tengah",
-      "Bahan-Bahan": [
+      "menu": "Nasi Liwet khas Solo Jawa Tengah",
+      "bahan": [
         "500 gram beras",
         "500 ml santan",
         "2 lembar daun salam",
@@ -777,7 +777,7 @@
         "2 butir kemiri",
         "Minyak goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Cuci beras lalu masukkan ke dalam rice cooker beserta dengan santan, air jeruk nipis, dan daun pandan. Tunggu hingga matang.",
         "- Sisihkan terlebih dahulu nasi yang sudah matang.",
         "- Panaskan minyak, lalu tumis bahan-bahan seperti bawang, kemiri, gula, garam, kunyit, jahe, lengkuas, dan daun salam. Aduk sampai rata dan mengeluarkan aroma harum.",
@@ -785,12 +785,12 @@
         "- Lalu, suwir-suwir ayam yang sudah dimasak dan masukkan ke dalam nasi yang sudah matang tadi.",
         "- Nasi liwet Solo siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 3109,
+      "kalori": 3109,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Nasi%20Liwet%20khas%20Solo%20Jawa%20Tengah.jpg?alt=media&token=19785996-e718-414d-a6da-a577571f506f&_gl=1*179i6e2*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY5MDYuMC4wLjA."
     },
     {
-      "Nama Makanan": "Rawon",
-      "Bahan-Bahan": [
+      "menu": "Rawon",
+      "bahan": [
         "500 gram daging sandung lamur",
         "2 batang serai, memarkan",
         "5 lembar daun jeruk",
@@ -811,19 +811,19 @@
         "Telur asin",
         "Sambal terasi"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Tumis bumbu halus, lengkuas, serai, dan daun jeruk hingga harum dan matang.",
         "- Kemudian masukkan daging, aduk rata, dan tambahkan air.",
         "- Bumbui dengan garam, gula, dan kaldu bubuk. Aduk-aduk, masak hingga matang dan daging empuk.",
         "- Tes rasa dan matikan kompor.",
         "- Sajikan rawon hangat dengan taburan kecambah, telur asin, dan sambal."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1261,
+      "kalori": 1261,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Rawon.jpg?alt=media&token=ba2f096f-c6ef-43e0-b0d5-48aa6533e20a&_gl=1*m5jqnm*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcxNjQuMC4wLjA."
     },
     {
-      "Nama Makanan": "Lempah Kuning khas Bangka Belitung",
-      "Bahan-Bahan": [
+      "menu": "Lempah Kuning khas Bangka Belitung",
+      "bahan": [
         "1 kg ikan baronang, cuci bersih, balurkan air jeruk nipis, diamkan 15 menit, lalu bilas bersih",
         "1 buah nanas, kupas kulitnya lalu potong-potong",
         "5 biji rawit merah, potong-potong",
@@ -836,24 +836,24 @@
         "5 cabai rawit merah",
         "3 butir kemiri",
         "1 sendok teh terasi panggang",
-        "Bahan tambahan:",
+        "bahan tambahan:",
         "5 lembar daun jeruk",
         "garam, gula, penyedap jamur secukupnya",
         "air secukupnya (hingga menutupi permukaan ikan)"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Masukkan air secukupnya, tunggu sampai mendidih.",
         "- Lalu masukkan bumbu yang sudah dihaluskan dan daun jeruk.",
         "- Masak sampai mendidih lagi dan keluar wangi bumbunya.",
         "- Lalu masukkan ikan, nanas, cabai potong, garam, gula, dan penyedap rasa.",
         "- Masak sampai ikan matang, lalu angkat dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1336,
+      "kalori": 1336,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Lempah%20Kuning%20khas%20Bangka%20Belitung.jpg?alt=media&token=2627da1f-ac12-4308-948f-750ad9d2fb80&_gl=1*skksjb*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY1NDkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Papeda Tuna Kuah Kuning Papua",
-      "Bahan-Bahan": [
+      "menu": "Papeda Tuna Kuah Kuning Papua",
+      "bahan": [
         "Bahan papeda:",
         "250 gr tepung sagu",
         "500 ml air mendidih",
@@ -873,7 +873,7 @@
         "1/2 sdt ketumbar",
         "3 buah cabai merah"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Papeda:",
         "- Campur tepung sagu dengan sedikit air (sekitar 50 ml).",
         "- Didihkan air, masukkan tepung sagu, aduk terus jangan berhenti sampai berubah warna menjadi bening.",
@@ -888,12 +888,12 @@
         "- Siram dengan tuna kuah kuning.",
         "- Sajikan hangat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1839,
+      "kalori": 1839,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Papeda%20Tuna%20Kuah%20Kuning%20Papua.jpg?alt=media&token=a1dc70ac-f30c-4e55-bb16-59cc7ad4c0a6&_gl=1*d5ezmp*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcwMTguMC4wLjA."
     },
     {
-      "Nama Makanan": "Kalumpe Kalimantan",
-      "Bahan-Bahan": [
+      "menu": "Kalumpe Kalimantan",
+      "bahan": [
         "200 gram daun singkong, tumbuk halus. Jika tidak mau menumbuk, di pasar-pasar tradisional Kalimantan Tengah banyak orang yang menjual daun singkong yang sudah ditumbuk.",
         "100 gram terong kecil atau terong pipit",
         "1 batang lengkuas",
@@ -909,16 +909,16 @@
         "3 butir bawang merah",
         "2 siung bawang putih"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Tumis bumbu halus dengan daun singkong tumbuk. Campur irisan lengkuas dan daun salam.",
         "- Tuang santan kental, masak dengan api kecil hingga matang."
       ],
-      "Jumlah Kalori per porsi (kkal)": 783,
+      "kalori": 783,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Kalumpe%20Kalimantan.jpg?alt=media&token=4efe8064-8972-49f4-87ee-4d93b9ed7704&_gl=1*inkutq*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY0MzUuMC4wLjA."
     },
     {
-      "Nama Makanan": "Mie Gobak Pedas Sumatera Utara",
-      "Bahan-Bahan": [
+      "menu": "Mie Gobak Pedas Sumatera Utara",
+      "bahan": [
         "1/2 bungkus mi lidi rebus, tambah sedikit minyak lalu cuci bersih tiriskan",
         "200 gr kol, cuci dan iris-iris",
         "100 gr wortel, cuci dan iris-iris",
@@ -935,18 +935,18 @@
         "2 buah kemiri",
         "5 siung bawang putih"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Tumis bawang merah sampai harum. Masukkan bumbu halus, tumis sampai harum pula.",
         "- Masukkan wortel, kol, daun bawang, tumis sampai layu. Masukkan sedikit air, cabai hijau iris, dan aduk.",
         "- Masukkan mi lidinya, tambahkan garam, gula, penyedap rasa, dan kecap manis, lalu aduk rata.",
         "- Setelah matang, tes rasa dan masukkan rawit utuh dan daun seledri, aduk dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 500,
+      "kalori": 500,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Mie%20Gobak%20Pedas%20Sumatera%20Utara.jpg?alt=media&token=b4edf17c-4075-4929-ba52-e798e3e2db6f&_gl=1*1f9zivm*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY4MTAuMC4wLjA."
     },
     {
-      "Nama Makanan": "Soto Makassar",
-      "Bahan-Bahan": [
+      "menu": "Soto Makassar",
+      "bahan": [
         "500 gr daging sapi",
         "500 gr jeroan sapi",
         "2,5 liter air cucian beras yang kedua",
@@ -981,7 +981,7 @@
         "Jeruk nipis",
         "Kecap manis/asin"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Cuci bersih daging dan jeroan, kemudian rebus daging dengan air beras. Masukkan serai geprek, daun jeruk, daun salam, dan kayu manis.",
         "- Jeroan rebus terpisah dengan air biasa, setelah sudah empuk baru gabung dengan daging bersama kaldunya.",
         "- Masukkan bumbu halus yang sudah ditumis dan kacang tanah yang sudah diblender, lalu aduk rata.",
@@ -989,12 +989,12 @@
         "- Angkat daging dan jeroan dari dalam kuah, potong-potong sesuai selera.",
         "- Dalam mangkuk, tata potong daging dan jeroan, siram dengan kuah coto. Taburi daun bawang, daun seledri, dan bawang goreng. Kemudian hidangkan dengan ketupat. Beri sambal dan jeruk nipis."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2800,
+      "kalori": 2800,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Soto%20Makassar.jpg?alt=media&token=d193ab22-b740-4989-9274-8741aacb8104&_gl=1*lodz6z*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc1NTcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Gudeg",
-      "Bahan-Bahan": [
+      "menu": "Gudeg",
+      "bahan": [
         "1 kg nangka muda, potong kotak lalu rebus sebentar dengan sedikit garam, angkat, tiriskan",
         "400 gram gula merah, sisir",
         "4 batang serai, geprek",
@@ -1013,18 +1013,18 @@
         "8 butir kemiri sangrai",
         "20 gram ketumbar bubuk"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Tata daun jati di dasar panci, lalu masukkan nangka muda dan semua bumbu. Tuang santan cair dan juga air kelapa. Kemudian tutup kembali dengan daun jati dan tutup panci, masak hingga kuah sedikit menyusut.",
         "- Setelah kuah sedikit menyusut, tambahkan gula merah, garam, dan santan kental. Tutup kembali dengan daun jati dan tutup panci, lanjutkan memasak dengan api kecil.",
         "- Koreksi rasa. Terakhir, tambahkan telur rebus, kemudian tutup panci kembali, lanjut masak gudegnya hingga matang dan benar-benar kering selama 8-10 jam.",
         "- Sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 3300,
+      "kalori": 3300,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Gudeg.jpg?alt=media&token=68c37552-7464-4a10-87ce-760c9189184c&_gl=1*jjzyog*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDYyNjAuMC4wLjA."
     },
     {
-      "Nama Makanan": "Rujak Cingur",
-      "Bahan-Bahan": [
+      "menu": "Rujak Cingur",
+      "bahan": [
         "300 gram cingur sapi",
         "1 papan tempe goreng",
         "5 kotak tahu goreng",
@@ -1047,18 +1047,18 @@
         "Lontong",
         "Kerupuk uyel"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Presto cingur sapi selama 2 jam, potong-potong lalu goreng sebentar (tidak perlu kering).",
         "- Kupas nanas, cuci bersih, kupas bengkuang dan timun lalu cucu bersih. Kemudian potong sesuai selera.",
         "- Bumbu: Ulek semua bumbu, lalu tambahkan air sedikit demi sedikit, kekentalan sesuaikan selera, lalu koreksi rasa.",
         "- Cara penyajian: sajikan rujak cingur bersama lontong, kangkung, tauge, tahu goreng, tempe goreng, nanas, bengkuang, timun dan siram dengan bumbu, tambahkan kerupuk."
       ],
-      "Jumlah Kalori per porsi (kkal)": 3500,
+      "kalori": 3500,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Rujak%20Cingur.jpg?alt=media&token=b6f9bb5c-50da-4864-9af2-1847891efcc9&_gl=1*7ln3ka*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcyMzIuMC4wLjA."
     },
     {
-      "Nama Makanan": "Ikan Kuah Pala Banda Maluku Utara",
-      "Bahan-Bahan": [
+      "menu": "Ikan Kuah Pala Banda Maluku Utara",
+      "bahan": [
         "400 gr ikan tongkol/tengiri/kakap potong bulat dan bersihkan",
         "50 gr air asam",
         "2 sdt garam",
@@ -1080,7 +1080,7 @@
         "½ sdt Ladaku Merica Bubuk",
         "2 cm lengkuas"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Campur bahan 1 dan diamkan 15 menit.",
         "- Tumis bumbu yang dihaluskan hingga harum.",
         "- Setelah matang tumis dengan sedikit santan hingga mereduksi dan berminyak.",
@@ -1089,12 +1089,12 @@
         "- Kecilkan api, masak hingga ikan matang. Kemudian masukkan daun kemangi, aduk hingga harum.",
         "- Angkat dan sajikan panas-panas."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2500,
+      "kalori": 2500,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Ikan%20Kuah%20Pala%20Banda%20Maluku%20Utara.jpg?alt=media&token=ad01e2ec-0713-4b0a-b4c2-7faf52903c8c&_gl=1*1rscwhs*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDYzMTIuMC4wLjA."
     },
     {
-      "Nama Makanan": "Mie Aceh",
-      "Bahan-Bahan": [
+      "menu": "Mie Aceh",
+      "bahan": [
         "500 gr mie kuning",
         "150 gr udang",
         "100 gr daging sapi, potong kotak-kotak kecil",
@@ -1123,19 +1123,19 @@
         "Emping secukupnya",
         "Telur ceplok/dadar"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Haluskan semua bumbu, tambahkan sedikit minyak. Sisihkan.",
         "- Tumis bawang merah dan bawang putih, masukkan udang dan daging. Aduk hingga berubah warna.",
         "- Masukkan bumbu halus dan mie kuning, aduk rata.",
         "- Tambahkan tauge, kecap manis, garam, dan kaldu jamur. Koreksi rasa. Angkat.",
         "- Sajikan dengan topping di atasnya."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2950,
+      "kalori": 2950,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Mie%20Aceh.jpeg?alt=media&token=fce322ec-2852-4b2b-9fbd-9f5de3b701e6&_gl=1*1gxtd34*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY3OTEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Getuk",
-      "Bahan-Bahan": [
+      "menu": "Getuk",
+      "bahan": [
         "1 kg singkong, kupas cuci lalu potong-potong",
         "150 gram kelapa parut",
         "100 gram gula pasir",
@@ -1144,7 +1144,7 @@
         "Taburan:",
         "Secukupnya kelapa parut dan sejumput garam lalu kukus sebentar"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Panaskan kukusan.",
         "- Kukus singkong bersama 150 gram kelapa parut hingga matang, kira-kira selama 30 menit.",
         "- Angkat dan pindahkan dalam wadah yang cukup besar, lalu taburi 1 sdt garam dan 100 gram gula pasir. Aduk rata.",
@@ -1152,12 +1152,12 @@
         "- Bagi menjadi 3 bagian. Beri pewarna sesuai selera.",
         "- Kemudian giling lagi bentuk panjang, tata di piring, dan siap disajikan bersama kelapa parut."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1890,
+      "kalori": 1890,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Getuk.jpg?alt=media&token=156d645e-30df-45cb-bd32-c97e1c1f83bd&_gl=1*uvxl34*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDYwODEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Getuk Goreng",
-      "Bahan-Bahan": [
+      "menu": "Getuk Goreng",
+      "bahan": [
         "1 kg singkong pulen",
         "175 gram gula merah",
         "1/2 sdt garam",
@@ -1168,19 +1168,19 @@
         "1/4 sdt vanilla essen",
         "Minyak sayur untuk menggoreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Potong singkong menjadi ukuran kecil. Lalu belah dan buang sumbu di bagian tengahnya. Kukus selama 30-45 menit sampai matang dan lembut.",
         "- Selagi panas beri gula merah dan garam lalu tumbuk hingga lembut.",
         "- Cetak getuk di dalam loyang yang telah dialasi daun pisang dan diolesi minyak tipis. Setelah dingin, keluarkan getuk dari loyang lalu potong sesuai selera.",
         "- Aduk rata semua bahan pelapis lalu celupkan getuk dan goreng hingga matang dan kering pada kedua sisi. Goreng dengan api sedang agar tidak cepat gosong.",
         "- Angkat dan tiriskan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2535,
+      "kalori": 2535,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Getuk%20Goreng.jpg?alt=media&token=3b7274d7-8595-44fc-806d-a5708ed597b4&_gl=1*t1bfae*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDYwNTcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Oseng Mercon",
-      "Bahan-Bahan": [
+      "menu": "Oseng Mercon",
+      "bahan": [
         "500 gram daging sapi campur tetelan",
         "Bumbu cemplung:",
         "1 batang serai geprek",
@@ -1200,7 +1200,7 @@
         "2 ruas jahe",
         "2 butir kemiri"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Cuci bersih daging sapi dan tetelan, rebus sekitar 1 jam.",
         "- Saat merebus tambahkan daun jeruk.",
         "- Angkat daging sapi dari air kaldunya, potong-potong sesuai selera.",
@@ -1212,12 +1212,12 @@
         "- Terakhir, masukkan cabai rawit utuh.",
         "- Setelah dagingnya empuk dan airnya sedikit menyusut, tes rasa, angkat, dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 900,
+      "kalori": 900,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Oseng%20Mercon.jpg?alt=media&token=dbf90d85-70fc-4457-ab14-4ee17fe915f8&_gl=1*yrtnpb*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY5OTkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Mi Lethek",
-      "Bahan-Bahan": [
+      "menu": "Mi Lethek",
+      "bahan": [
         "3 lembar mi lethek kering",
         "6 siung bawang putih",
         "2 siung bawang merah",
@@ -1229,19 +1229,19 @@
         "Daun bawang dan daun seledri secukupnya",
         "Bawang goreng secukupnya untuk taburan"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rendam mi lethek dengan air matang sampai lunak, tiriskan.",
         "- Haluskan bawang merah, bawang putih, dan kemiri.",
         "- Tumis bumbu halus sampai harum, masukkan telur dan wortel. Setelah wortel agak matang, masukkan irisan kubis, tambahkan kecap.",
         "- Masukkan mi, daun bawang, dan daun seledri. Aduk hingga rata. Tambahkan garam dan merica. Koreksi rasa.",
         "- Sajikan mi lethek goreng dengan taburan bawang goreng."
       ],
-      "Jumlah Kalori per porsi (kkal)": 690,
+      "kalori": 690,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Mi%20Lethek.jpg?alt=media&token=0a86beba-748b-4fb2-b0a1-d984619e66d9&_gl=1*adwhdb*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY3NTEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Jadah Tempe",
-      "Bahan-Bahan": [
+      "menu": "Jadah Tempe",
+      "bahan": [
         "Bahan jadah:",
         "250 gram beras ketan putih",
         "1/4 butir kelapa",
@@ -1260,7 +1260,7 @@
         "5 siung bawang merah",
         "70 gram gula merah"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Cuci bersih beras ketan lalu rendam semalam dalam wadah berisi air.",
         "- Panaskan kukusan, tuang beras ketan yang telah ditiriskan. Kukus selama 15 menit.",
         "- Setelah 15 menit angkat beras ketan, lalu tuang air kelapa sedikit demi sedikit sambil diaduk. Diamkan 10 menit.",
@@ -1272,12 +1272,12 @@
         "- Masukkan tempe dan tambahkan kecap manis. Aduk rata, biarkan meresap. Kemudian angkat.",
         "- Susun jadah dengan tempe, sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1660,
+      "kalori": 1660,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Jadah%20Tempe.jpg?alt=media&token=a58dc95d-6d2a-41e3-be59-15d197ca8454&_gl=1*16omcaa*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDYzOTcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Nasi Gandul",
-      "Bahan-Bahan": [
+      "menu": "Nasi Gandul",
+      "bahan": [
         "1 piring nasi",
         "500 gram daging sapi",
         "1 sdm gula jawa",
@@ -1299,7 +1299,7 @@
         "4 siung bawang putih",
         "6 butir kemiri"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Didihkan air, rebus daging hingga empuk.",
         "- Tumis bumbu halus dengan api kecil sampai matang, masukkan serai, lengkuas, dan daun salam. Tumis sampai harum.",
         "- Masukkan daging dalam tumisan, masak hingga daging berubah warna.",
@@ -1307,12 +1307,12 @@
         "- Tambahkan gula jawa, garam, kaldu jamur, dan kecap manis. Masak dengan api kecil hingga bumbu meresap.",
         "- Sajikan dengan nasi putih, taburan bawang goreng, dan beri perasan jeruk nipis."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2600,
+      "kalori": 2600,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Nasi%20Gandul.jpg?alt=media&token=3ebb6c25-67c2-4749-b02e-e23c0c9f050a&_gl=1*yamyg7*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY4NDMuMC4wLjA."
     },
     {
-      "Nama Makanan": "Lumpia Semarang",
-      "Bahan-Bahan": [
+      "menu": "Lumpia Semarang",
+      "bahan": [
         "1,2 kg rebung, iris-iris seukuran korek api, rebus, tiriskan",
         "200 gram daging ayam cincang",
         "30 lembar kulit lumpia instan",
@@ -1330,7 +1330,7 @@
         "Daun bawang",
         "Cabai rawit ijo"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Tumis bawang putih dan bawang merah hingga harum.",
         "- Masukkan ayam cincang, masak hingga daging ayam berubah warna lebih putih.",
         "- Masukkan rebung rebus. Tambahkan kecap manis, kecap asin, minyak wijen, merica bubuk, gula pasir, dan garam.",
@@ -1340,12 +1340,12 @@
         "- Goreng hingga kecokelatan atau kukus.",
         "- Sajikan dengan cabai rawit ijo dan daun bawang."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1825,
+      "kalori": 1825,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Lumpia%20Semarang.jpg?alt=media&token=744d58e8-e52c-416b-9237-b65c732cea87&_gl=1*mhte9i*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY1ODkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Soto Kudus",
-      "Bahan-Bahan": [
+      "menu": "Soto Kudus",
+      "bahan": [
         "1 ekor ayam kampung",
         "100 gram tauge diseduh",
         "75 ml kecap manis",
@@ -1365,19 +1365,19 @@
         "1 sdm ketumbar",
         "1/2 sdt jintan"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus daging ayam dengan api kecil sampai kaldu harum dan ayam matang.",
         "- Panaskan minyak goreng, tumis bumbu yang telah dihaluskan sampai harum, tambahkan serai dan aduk rata.",
         "- Masukkan bumbu tumis, gula, garam, dan bawang putih goreng ke dalam rebusan ayam.",
         "- Teruskan masak sampai bumbu benar-benar meresap ke dalam ayam, angkat dan tiriskan, kemudian suwir-suwir.",
         "- Siapkan mangkuk, masukkan nasi secukupnya, kemudian tambahkan suwiran ayam, telur, seledri, tauge, air jeruk, dan sedikit kecap manis, tuangkan kuah sotonya kemudian disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2580,
+      "kalori": 2580,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Soto%20Kudus.jpg?alt=media&token=2862ea10-d2f6-428e-bd54-f0c65a3f1669&_gl=1*1c76n4l*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc0OTguMC4wLjA."
     },
     {
-      "Nama Makanan": "Soto Lamongan",
-      "Bahan-Bahan": [
+      "menu": "Soto Lamongan",
+      "bahan": [
         "1/2 kg ayam fillet / dada mentok",
         "Bumbu Halus:",
         "10 siung bawang merah",
@@ -1394,7 +1394,7 @@
         "Seledri",
         "Daun pre"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Cuci bersih ayam dan lumuri jeruk nipis supaya amisnya hilang.",
         "- Haluskan bahan-bahan bumbu halus, lalu gongsong sampai berwarna kecoklatan.",
         "- Setelah itu, masukkan bumbu cemplung. Tunggu sampai harum, lalu tambahkan sedikit air agar tidak gosong.",
@@ -1403,12 +1403,12 @@
         "- Jika sudah matang, tinggal tambahkan bumbu pelengkap, seperti jeruk nipis, daun pre, seledri, bawang goreng, dan telur rebus.",
         "- Jika sudah, tinggal angkat dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 779,
+      "kalori": 779,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Soto%20Lamongan.jpeg?alt=media&token=37cde3df-3c86-49c9-a3e1-47e2f35f7e60&_gl=1*mbon05*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc1MjkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Sate Madura",
-      "Bahan-Bahan": [
+      "menu": "Sate Madura",
+      "bahan": [
         "500 gram dada ayam",
         "Bahan Marinasi:",
         "1 siung bawang putih giling",
@@ -1425,7 +1425,7 @@
         "Air",
         "Kecap"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Cuci bersih ayam, kemudian potong seperti dadu dan tusuk dengan tusukan sate.",
         "- Marinasi ayam dengan bumbu, kemudian masukkan ke dalam kulkas selama 30 menit.",
         "- Sambil menunggu marinasi, olah bumbu kacangnya dengan menggoreng bawang merah dan putih, selanjutnya giling bersama garam dan kemiri. Setelah halus, tambahkan cabai giling.",
@@ -1434,12 +1434,12 @@
         "- Ambil 5 sdm bumbu kacang, 3 sdm air, dan kecap secukupnya. Olesi pada ayam, kemudian bakar ayam hingga matang.",
         "- Sajikan dengan menambahkan kecap di atas sate. Bisa tambahkan juga bawang goreng, lontong, atau nasi."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1698,
+      "kalori": 1698,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Sate%20Madura.jpg?alt=media&token=6c945111-0cd9-4185-8e34-93047cf04591&_gl=1*1h98e1t*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDczNDIuMC4wLjA."
     },
     {
-      "Nama Makanan": "Bakso Malang",
-      "Bahan-Bahan": [
+      "menu": "Bakso Malang",
+      "bahan": [
         "9 buah siomay basah",
         "9 buah siomay kering",
         "3 buah pangsit kering",
@@ -1458,18 +1458,18 @@
         "1 sdt garam",
         "1 sdt kaldu jamur"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Haluskan merica, bawang putih, garam, dan kaldu bubuk.",
         "- Tumis semua bahan bumbu halus hingga matang, tuangkan air, kemudian setelah mendidih masukkan siomay kering, siomay basah, dan tahu sumedang.",
         "- Masukkan irisan daun bawang dan seledri.",
         "- Tuang ke dalam mangkuk, sajikan dengan saus, kecap, jeruk purut, dan sambal."
       ],
-      "Jumlah Kalori per porsi (kkal)": 810,
+      "kalori": 810,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Bakso%20Malang.jpg?alt=media&token=095aec49-ab2f-4dd6-b81f-32de0b3c1043&_gl=1*15wo8pf*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU1MTUuMC4wLjA."
     },
     {
-      "Nama Makanan": "Pecel Madiun",
-      "Bahan-Bahan": [
+      "menu": "Pecel Madiun",
+      "bahan": [
         "250 gram kacang tanah",
         "5 siung bawang putih",
         "3 buah cabai merah besar",
@@ -1485,19 +1485,19 @@
         "Tahu goreng",
         "Tempe goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Goreng kacang tanah hingga matang. Sisihkan.",
         "- Goreng juga bahan-bahan bumbu, seperti bawang putih, kencur, daun jeruk, dan cabai merah besar. Dinginkan hingga suhu ruangan.",
         "- Setelah dingin, campurkan bahan-bahan bumbu tersebut dengan kacang tanah yang sudah digoreng. Tambahkan gula merah, asam jawa, garam, dan kaldu bubuk. Haluskan. Siap digunakan.",
         "- Ambil sedikit bumbu, beri air panas, kemudian aduk rata.",
         "- Siapkan sayuran rebus dalam piring saji. Siram dengan kuah kacang. Sajikan dengan tahu dan tempe goreng."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2000,
+      "kalori": 2000,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Pecel%20Madiun.jpg?alt=media&token=7a6d570c-69ed-43a9-b87e-b1dc6a7963f8&_gl=1*yo8rvk*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcwOTMuMC4wLjA."
     },
     {
-      "Nama Makanan": "Lontong Balap",
-      "Bahan-Bahan": [
+      "menu": "Lontong Balap",
+      "bahan": [
         "1 ons kecambah atau taoge",
         "2 batang daun bawang",
         "2 batang daun seledri",
@@ -1514,19 +1514,19 @@
         "Tahu goreng",
         "Bawang goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Siapkan semua bahan. Cuci terlebih dahulu kecambah, daun bawang, dan daun seledri, kemudian rajang kasar daun bawang.",
         "- Haluskan bahan-bahan bumbu halus sambil rebus air secukupnya. Setelah mendidih, masukkan bahan bumbu halus ke dalam panci.",
         "- Setelah mendidih, masukkan daun bawang dan kecambah, aduk sambil tambahkan kecap secukupnya, lalu aduk kembali. Tunggu sampai mendidih.",
         "- Tambahkan daun seledri. Kemudian, matikan kompornya. Sisihkan.",
         "- Sajikan dengan lontong. Tambahkan tahu yang sudah dipotong, taburi dengan bawang goreng, dan tambahkan petis sesuai selera."
       ],
-      "Jumlah Kalori per porsi (kkal)": 490,
+      "kalori": 490,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Lontong%20Balap.jpg?alt=media&token=c7c10078-38e9-4f54-9bc7-b020200694c7&_gl=1*3r8qbg*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY1NjcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Tahu Tek",
-      "Bahan-Bahan": [
+      "menu": "Tahu Tek",
+      "bahan": [
         "1 kotak tahu ukuran kecil (goreng matang)",
         "1 butir telur (buat dadar polos)",
         "1/2 buah kentang (goreng)",
@@ -1542,7 +1542,7 @@
         "Garam (secukupnya)",
         "1 sdt kecap manis"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Buat bumbu petis kacang. Haluskan kacang tanah goreng, bawang putih, cabai rawit, dan petis.",
         "- Tambahkan air, garam, dan kecap manis. Aduk rata. Cicipi rasanya dan sesuaikan dengan selera.",
         "- Siapkan piring dan isi dengan potongan lontong dan telur dadar yang sudah digunting.",
@@ -1551,12 +1551,12 @@
         "- Siram dengan bumbu petis kacang.",
         "- Sajikan dengan kerupuk udang kecil."
       ],
-      "Jumlah Kalori per porsi (kkal)": 760,
+      "kalori": 760,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tahu%20Tek.jpg?alt=media&token=1783f606-0f2d-49ee-bffb-df9291c45a91&_gl=1*4e8czt*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc2NTYuMC4wLjA."
     },
     {
-      "Nama Makanan": "Nasi Krawu",
-      "Bahan-Bahan": [
+      "menu": "Nasi Krawu",
+      "bahan": [
         "1/2 kg daging sapi",
         "3 buah gula merah",
         "2 lembar daun salam",
@@ -1570,19 +1570,19 @@
         "200 ml air kaldu rebusan daging",
         "Minyak goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Cuci bersih daging sapi, kemudian presto kurang lebih selama 10 menit.",
         "- Setelah daging matang, suwir menggunakan garpu.",
         "- Blender semua bahan bumbu halus, masukkan daun salam, dan tumis hingga harum.",
         "- Kemudian, masukkan air asam jawa dan gula merah, gula pasir, garam, merica bubuk, serta penyedap rasa.",
         "- Masukkan daging suwir, diamkan sampai mengering, tes rasa, dan siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2100,
+      "kalori": 2100,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Nasi%20Krawu.jpg?alt=media&token=ba204c7f-a050-473a-904f-a614bcb0f88f&_gl=1*zdl0o9*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY4NzAuMC4wLjA."
     },
     {
-      "Nama Makanan": "Ayam Lodho",
-      "Bahan-Bahan": [
+      "menu": "Ayam Lodho",
+      "bahan": [
         "1 ekor ayam kampung atau ayam biasa utuh (potong-potong)",
         "10 siung bawang merah",
         "7 siung bawang putih",
@@ -1598,19 +1598,19 @@
         "1 sachet santan kelapa instan",
         "Garam, gula, dan kaldu jamur (secukupnya)"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Panggang ayam sampai berwarna kecoklatan.",
         "- Haluskan duo bawang, kunyit, jahe, dan kencur, lalu tumis dengan sedikit minyak. Masukkan semua bumbu lainnya, kecuali ayam.",
         "- Setelah bumbu matang dan mengeluarkan minyak, tambahkan air, lalu masukkan ayam.",
         "- Biarkan air sedikit menyusut, lalu koreksi rasa.",
         "- Jika sudah pas dan matang, siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1800,
+      "kalori": 1800,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Ayam%20Lodho.jpg?alt=media&token=91acf125-eeeb-4e2a-8d01-c6a56a08c96c&_gl=1*xquqnj*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU0NTMuMC4wLjA."
     },
     {
-      "Nama Makanan": "Dendeng Balado",
-      "Bahan-Bahan": [
+      "menu": "Dendeng Balado",
+      "bahan": [
         "1 kg daging sapi bagian has dalam",
         "2 liter air",
         "1 sdt merica putih bubuk",
@@ -1637,7 +1637,7 @@
         "300 ml air",
         "2 sdm minyak kelapa, untuk menumis"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus dulu daging bersama bawang putih, merica, bunga lawang, dan garam.",
         "- Rebus sampai empuk lalu tiriskan daging dan iris tipis lalu pukul-pukul sampai pipih dengan memakai pemukul daging.",
         "- Campur semua bumbu perendam yang sudah dihaluskan lalu rendam daging dalam bumbu selama 1 jam.",
@@ -1647,12 +1647,12 @@
         "- Panaskan minyak kelapa untuk menumis lalu tumis bumbu lado sampai harum.",
         "- Tata dendeng pada piring lalu siram dengan bumbu lado dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 6105,
+      "kalori": 6105,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Dendeng%20Balado.jpg?alt=media&token=3f7481fb-b9f5-4ebd-b6a3-46a0a63a601e&_gl=1*1uuh2b2*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU5NDguMC4wLjA."
     },
     {
-      "Nama Makanan": "Asinan Betawi",
-      "Bahan-Bahan": [
+      "menu": "Asinan Betawi",
+      "bahan": [
         "150 gr tauge ukuran sedang",
         "150 gr kol",
         "6 lembar selada keriting",
@@ -1672,7 +1672,7 @@
         "kerupuk mi kuning secukupnya",
         "kerupuk merah secukupnya"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Iris tipis kol lalu sisihkan.",
         "- Potongi selada keriting dan sawi asin lalu sisihkan.",
         "- Ambil timun, bagi jadi 4 lalu potongi ukuran 1 cm, sisihkan.",
@@ -1681,12 +1681,12 @@
         "- Ambil piring saji, isi dengan tauge, kol, selada keriting, sawi asin, timun, tahu putih, dan kacang goreng secukupnya.",
         "- Siram dengan bumbu kacang lalu sajikan bersama kerupuk merah dan kerupuk mi."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1250,
+      "kalori": 1250,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Asinan%20Betawi.jpg?alt=media&token=fd48700a-e3e5-4cf2-9e2d-68681d1c61f7&_gl=1*1no4w68*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDUzMzkuMC4wLjA."
     },
     {
-      "Nama Makanan": "Mi Kocok Bandung",
-      "Bahan-Bahan": [
+      "menu": "Mi Kocok Bandung",
+      "bahan": [
         "400 gr mi basah gepeng siap masak",
         "150 gr tauge, buang ujung akarnya",
         "2 sdm daun bawang iris tipis",
@@ -1704,7 +1704,7 @@
         "2 sdt garam",
         "1 sdt gula pasir"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Ambil mi basah lalu cuci, tiriskan, dan sisihkan.",
         "- Untuk kuahnya, tumis bawang putih dengan minyak goreng lalu masukkan jahe.",
         "- Tumis sampai harum lalu angkat dan sisihkan dulu.",
@@ -1714,12 +1714,12 @@
         "- Ambil mangkuk saji lalu letakkan mi secukupnya, tambahkan tauge, dan siram dengan kuah berserta kikilnya.",
         "- Sajikan hangat dengan sambal cabai rawit."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1545,
+      "kalori": 1545,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Mi%20Kocok%20Bandung.jpg?alt=media&token=204ee702-da34-4515-a1ff-b1c293381a85&_gl=1*1wub0d6*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY3MzIuMC4wLjA."
     },
     {
-      "Nama Makanan": "Sate Lilit Bali",
-      "Bahan-Bahan": [
+      "menu": "Sate Lilit Bali",
+      "bahan": [
         "200 gr daging ikan tenggiri",
         "50 gr udang kupas",
         "50 gr kelapa parut, sangrai",
@@ -1746,19 +1746,19 @@
         "Sambal matah",
         "Batang serai secukupnya untuk melilitkan adonan"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Haluskan ikan tenggiri bersama udang kupas, dan kelapa parut memakai food processor, lalu pindahkan ke wadah, dan sisihkan.",
         "- Tumis bumbu halus sampai harum lalu masukkan serai, daun jeruk, daun salam, lengkuas, asam jawa, gula jawa, merica, dan garam, lalu tumis sampai matang.",
         "- Campurkan bumbu bersama adonan ikan sampai merata.",
         "- Ambil batang serai lalu lilitkan adonan secukupnya pada batang serai, lakukan hingga adonan habis.",
         "- Bakar sate lilit sampai matang lalu sajikan bersama sambal matah."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1315,
+      "kalori": 1315,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Sate%20Lilit%20Bali.jpg?alt=media&token=befee553-c26d-4dd4-b023-5c0abda71f28&_gl=1*rbzdjo*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDczMjEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Rendang Daging Padang",
-      "Bahan-Bahan": [
+      "menu": "Rendang Daging Padang",
+      "bahan": [
         "500 gram daging sapi potong kotak jadi 10 bagian",
         "600 ml santan kental",
         "5 sdm minyak goreng",
@@ -1775,19 +1775,19 @@
         "1 sdm garam",
         "2 butir asam kandis"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Tumis bumbu hingga harum. Masukkan daging dan aduk hingga berubah warna.",
         "- Masukkan daun kunyit, serai, dan asam kandis. Aduk perlahan.",
         "- Masukkan air. Masak hingga air menyusut. Aduk perlahan sesekali.",
         "- Kemudian masukkan santan. Masak dengan api sedang.",
         "- Biarkan hingga daging empuk, kuah kering, dan berminyak. Angkat dan sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 3030,
+      "kalori": 3030,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Rendang%20Daging%20Padang.jpg?alt=media&token=be7f9954-702f-454f-81c1-3bd7118170aa&_gl=1*u4h53d*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcxODcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Sop Konro",
-      "Bahan-Bahan": [
+      "menu": "Sop Konro",
+      "bahan": [
         "1 kilogram iga sapi, potong-potong",
         "2 liter air",
         "2 cm kayu manis",
@@ -1807,18 +1807,18 @@
         "50 gram kacang merah, direbus matang",
         "1 1/4 sendok makan garam"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus iga, kayu manis, cengkih, daun salam, lengkuas, garam, dan air asam jawa.",
         "- Tumis bumbu halus dan bawang merah iris hingga harum.",
         "- Tuang tumisan bumbu ke dalam rebusan iga dan masak sampai bumbu meresap dan iga matang.",
         "- Sajikan panas dengan sambal dan air jeruk nipis."
       ],
-      "Jumlah Kalori per porsi (kkal)": 3050,
+      "kalori": 3050,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Sop%20Konro.jpg?alt=media&token=7cdf003e-dd68-4347-8102-08d8474e9498&_gl=1*146uuwe*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc0NDUuMC4wLjA."
     },
     {
-      "Nama Makanan": "Ikan Bakar Colo Dabu-dabu Khas Papua",
-      "Bahan-Bahan": [
+      "menu": "Ikan Bakar Colo Dabu-dabu Khas Papua",
+      "bahan": [
         "1 ekor (kurang lebih 1 kilogram) ikan kue/baronang (bisa diganti dengan ikan lainnya)",
         "1 sendok teh garam",
         "1 1/2 sendok makan air jeruk nipis",
@@ -1834,7 +1834,7 @@
         "20 helai daun kemangi, diiris kasar",
         "1 1/2 sendok makan minyak goreng"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Siapkan dan panaskan panggangan terlebih dahulu.",
         "- Bersihkan ikan, buang insang dan isi perutnya. Setelah itu buat beberapa keratan yang dalam pada kedua sisi ikan hingga ke tulangnya. Lumuri dengan garam, air jeruk, dan air jahe. Taruh ikan dalam lemari pendingin, diamkan selama 15 menit.",
         "Dabu-dabu:",
@@ -1845,12 +1845,12 @@
         "- Kemudian berturut-turut panggang bagian punggung (pegang dengan japitan) dan kepalanya.",
         "- Sesekali ikan diolesi dengan minyak ikan telah matang jika getahnya sudah tidak ada lagi yang keluar."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1015,
+      "kalori": 1015,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Ikan%20Bakar%20Colo%20Dabu-dabu%20Khas%20Papua.jpg?alt=media&token=5c9fa2b9-b1eb-4dbb-9b55-bab67faff2d6&_gl=1*1cbltun*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDYyOTEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Saksang Daging Sapi",
-      "Bahan-Bahan": [
+      "menu": "Saksang Daging Sapi",
+      "bahan": [
         "1 kilogram daging sapi, potong kecil-kecil",
         "3 lembar daun jeruk",
         "Garam secukupnya",
@@ -1871,19 +1871,19 @@
         "Daun jeruk",
         "Daun salam"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Sangrai kelapa dan ketumbar sampai warnanya kecokelatan, setelah cokelat dan wangi, segera tumbuk sampai halus dan mengeluarkan minyak.",
         "- Tumis bumbu hasil blender, daun salam, dan daun jeruk sampai wangi, lalu masukkan dagingnya.",
         "- Aduk sampai rata, lalu tambahkan air dua gelas.",
         "- Tutup wajan/panci dengan api sedang, setelah air berkurang, tambahkan tumbukan kelapa-ketumbar aduk sampai rata, lalu masukkan garam dan penyedap secukupnya, diamkan sampai airnya mengering.",
         "- Daging siap untuk disantap."
       ],
-      "Jumlah Kalori per porsi (kkal)": 3040,
+      "kalori": 3040,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Saksang%20Daging%20Sapi.jpg?alt=media&token=1f1ce153-c7ff-434a-89df-eed7e26f6b48&_gl=1*111mavh*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcyNTUuMC4wLjA."
     },
     {
-      "Nama Makanan": "Kanji Rumbi (Bubur Ayam ala Aceh)",
-      "Bahan-Bahan": [
+      "menu": "Kanji Rumbi (Bubur Ayam ala Aceh)",
+      "bahan": [
         "1/4 kilogram beras, cuci dan rendam",
         "1/2 ekor ayam, cuci bersih",
         "250 gram udang rebus",
@@ -1899,19 +1899,19 @@
         "1/2 ruas jari jahe",
         "1/2 buah biji pala"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Beras disangrai sampai kuning dan ditumbuk kasar.",
         "- Rebus ayam dan beras, hingga ayamnya empuk dan berasnya menjadi bubur.",
         "- Ayam empuk potong-potong bentuk dadu.",
         "- Masukkan garam dan bumbu yang sudah dibungkus ke dalam rebusan bubur.",
         "- Setelah matang hidangkan dengan menabur ayam potong dadu, udang rebus, dan bawang goreng."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1731,
+      "kalori": 1731,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Kanji%20Rumbi%20(Bubur%20Ayam%20ala%20Aceh).jpg?alt=media&token=dd58fa70-53f9-4753-bb19-47c3a3f82a8f&_gl=1*p0oivu*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY0NjEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Pecak Lele",
-      "Bahan-Bahan": [
+      "menu": "Pecak Lele",
+      "bahan": [
         "5 ekor lele ukuran sedang, cuci bersih, bakar sampai matang",
         "1/2 liter santan kental",
         "1 ikat kecil kemangi, ambil daunnya saja",
@@ -1923,18 +1923,18 @@
         "5 buah kemiri",
         "10 buah cabai merah"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Haluskan bumbu yang sudah disangrai lalu ditumis.",
         "- Tuangkan santan kental lalu tambahkan gula dan garam hingga mendidih.",
         "- Masukkan lele bakar hingga matang. Taburi daun kemangi, angkat, dan sajikan.",
         "- Bisa juga dihidangkan dengan cara bumbu dan santan yang sudah mendidih dituangkan di atas lele bakar."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1500,
+      "kalori": 1500,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Pecak%20Lele.jpg?alt=media&token=68c06556-4cac-403f-b584-caae2254a50c&_gl=1*tio1rw*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcwMzYuMC4wLjA."
     },
     {
-      "Nama Makanan": "Garang Asem Ayam",
-      "Bahan-Bahan": [
+      "menu": "Garang Asem Ayam",
+      "bahan": [
         "500 gr daging ayam (potong menjadi beberapa bagian)",
         "Bumbu:",
         "6 siung bawang merah (potong tipis)",
@@ -1945,19 +1945,19 @@
         "400 ml santan kelapa",
         "Daun pisang (untuk membungkus)"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Cuci bersih ayam, dan rebus hingga matang.",
         "- Kemudian ambil daun pisang dan letakkan daging ayam, potongan bawang merah, bawang putih, cabai rawit, dan tomat.",
         "- Taburkan garam secukupnya, kemudian bungkus dengan daun pisang. Lakukan pada daging ayam yang masih tersisa.",
         "- Kukus selama 30 menit. Jika sudah matang, keluarkan dan biarkan sedikit lebih dingin.",
         "- Sajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1685,
+      "kalori": 1685,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Garang%20Asem%20Ayam.jpg?alt=media&token=f15da70a-7fd2-49af-a2fd-85491b1f3a73"
     },
     {
-      "Nama Makanan": "Mangut Lele",
-      "Bahan-Bahan": [
+      "menu": "Mangut Lele",
+      "bahan": [
         "1 kg ikan lele",
         "1 ikat kemangi (ambil daunnya)",
         "Bumbu:",
@@ -1972,7 +1972,7 @@
         "700 ml air",
         "1 buah jeruk nipis"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Bersihkan ikan lele dari perutnya. Cuci bersih dengan air perasan jeruk nipis.",
         "- Goreng ikan lele hingga matang, usahakan jangan terlalu kering atau terlalu mentah.",
         "- Haluskan semua bumbu, dan tumis dengan sedikit minyak hingga beraroma harum.",
@@ -1982,12 +1982,12 @@
         "- Aduk perlahan. Biarkan sayur mangut ikan lele mendidih.",
         "- Sajikan mangut ikan lele dengan nasi hangat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1650,
+      "kalori": 1650,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Mangut%20Lele.jpg?alt=media&token=993f20f7-3541-4082-960d-39b9051fe5d7&_gl=1*f79tj9*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY3MTEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Mie Goreng Jawa",
-      "Bahan-Bahan": [
+      "menu": "Mie Goreng Jawa",
+      "bahan": [
         "3 siung bawang putih",
         "2 siung bawang merah",
         "8 buah cabai rawit",
@@ -2002,7 +2002,7 @@
         "Bawang goreng",
         "Garam, gula, dan penyedap rasa secukupnya"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rebus mie instan hingga matang. Jika sudah matang, angkat dan tiriskan.",
         "- Geprek halus bawang putih dan bawang merah. Dan potong halus cabai rawit.",
         "- Panaskan minyak, kemudian tumis bawang merah, bawang putih hingga harum dan layu.",
@@ -2011,12 +2011,12 @@
         "- Masukkan sawi hijau dan masak hingga matang.",
         "- Jika sudah matang, angkat dan sajikan di piring dengan taburan bawang goreng secukupnya."
       ],
-      "Jumlah Kalori per porsi (kkal)": 800,
+      "kalori": 800,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Mie%20Goreng%20Jawa.jpg?alt=media&token=d3654d6e-63a7-4d25-a69a-3eba3e6236cf&_gl=1*zo8h5r*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY4MjguMC4wLjA."
     },
     {
-      "Nama Makanan": "Pempek Palembang",
-      "Bahan-Bahan": [
+      "menu": "Pempek Palembang",
+      "bahan": [
         "500 gram ikan tenggiri yang masih segar",
         "500 gram tepung sagu",
         "2 butir telur ayam",
@@ -2033,7 +2033,7 @@
         "1 sendok makan tongcai",
         "1 sendok makan garam atau sesuai selera"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Pertama, kita akan membuat adonan pempek terlebih dahulu.",
         "- Siapkan semua bahan untuk membuat adonan, lalu haluskan daging ikan tenggiri.",
         "- Setelah halus, tambahkan telur, garam, dan penyedap rasa, aduk sampai adonan rata.",
@@ -2049,12 +2049,12 @@
         "- Masukkan cabe dan garam, lalu cicipi, jika masih kurang bisa kamu tambahkan lagi cabe atau garamnya.",
         "- Didihkan rebusan cuko sampai matang, kemudian angkat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2500,
+      "kalori": 2500,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Pempek%20Palembang.jpg?alt=media&token=d7612923-ac5d-440e-b9e3-9df04b6132af&_gl=1*1hd0g4k*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDcxMTEuMC4wLjA."
     },
     {
-      "Nama Makanan": "Kerak Telor Jakarta",
-      "Bahan-Bahan": [
+      "menu": "Kerak Telor Jakarta",
+      "bahan": [
         "100 gram beras ketan putih",
         "100 gram kelapa parut yang sudah disangrai untuk taburan",
         "5 butir telur bebek",
@@ -2067,7 +2067,7 @@
         "1 cm jahe",
         "1/2 sendok teh merica butiran"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "- Rendam terlebih dahulu ketan putih semalaman di dalam air yang sudah disiapkan, lalu tiriskan.",
         "- Panaskan minyak goreng, tumis bumbu yang sudah dihaluskan sampai tercium bau wangi, sisihkan.",
         "- Tambahkan 1,5 sendok makan beras ketan yang sudah direndam pada wajan cekung yang sudah dipanaskan.",
@@ -2079,12 +2079,12 @@
         "- Setelah matang, taburi dengan kelapa parut sangrai dan bawang goreng.",
         "- Kerak telor Jakarta siap disantap saat masih hangat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1770,
+      "kalori": 1770,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Kerak%20Telor%20Jakarta.jpg?alt=media&token=942b6aba-79db-4593-ae1c-8d2117f7288a&_gl=1*ysenb6*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDY1MDYuMC4wLjA."
     },
     {
-      "Nama Makanan": "Batagor Bandung",
-      "Bahan-Bahan": [
+      "menu": "Batagor Bandung",
+      "bahan": [
         "Tahu Putih Secukupnya",
         "200 gram ikan tenggiri yang sudah dibersihkan durinya dan dihaluskan",
         "100 gram tepung sagu",
@@ -2100,7 +2100,7 @@
         "2 siung bawang putih",
         "Gula dan garam secukupnya"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Campurkan ikan tenggiri, garam, daun bawang, gula pasir, dan merica, uleni sampai adonan tercampur rata.",
         "Tambahkan putih telur dan air es, aduk lagi sampai semua bahan tercampur.",
         "Masukkan tepung sagu dan tepung terigu ke dalam adonan, aduk lagi sampai adonan jadi.",
@@ -2112,12 +2112,12 @@
         "Masak sampai mendidih menggunakan api kecil.",
         "Tambahkan daun jeruk agar bumbu kacang terasa lebih segar saat bumbu hampir matang."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2381,
+      "kalori": 2381,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Batagor%20Bandung.jpg?alt=media&token=6e214fce-f6ce-47ae-a4c7-616f8e513e46&_gl=1*lbdwzw*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU3MjMuMC4wLjA."
     },
     {
-      "Nama Makanan": "Tempe Mendoan Banyumas",
-      "Bahan-Bahan": [
+      "menu": "Tempe Mendoan Banyumas",
+      "bahan": [
         "500 gram tempe yang diiris tipis lebar",
         "250 gram tepung terigu protein sedang",
         "400 ml air",
@@ -2132,18 +2132,18 @@
         "4 buah cabe rawit merah yang sudah dihaluskan",
         "1/8 sendok teh garam"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Campur tepung terigu, bumbu halus, dan air.",
         "Tambahkan daun bawang, aduk rata sampai semua bahan tercampur.",
         "Celupkan tempe ke dalam adonan tepung, dan goreng setengah kering, angkat dan tiriskan.",
         "Tempe mendoan Banyumas siap disantap bersama sambal kecap tengis."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1450,
+      "kalori": 1450,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tempe%20Mendoan%20Banyumas.jpg?alt=media&token=9b161ebb-41a6-4ff6-bb8f-adad7e018025&_gl=1*1igcs4f*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc4NzQuMC4wLjA."
     },
     {
-      "Nama Makanan": "Selat Solo",
-      "Bahan-Bahan": [
+      "menu": "Selat Solo",
+      "bahan": [
         "500 gram daging khas dalam yang sudah dipotong melintang serat",
         "6 butir bawang merah yang sudah diiris tipis",
         "2 sendok makan margarine atau mentega",
@@ -2166,7 +2166,7 @@
         "1 sendok makan gula pasir",
         "1 sendok teh garam"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Panaskan margarine menggunakan wajan, masukkan bawang merah dan tumis sampai layu dan tercium bau wangi.",
         "Masukkan bumbu halus, aduk sampai tercampur semua.",
         "Tambahkan daging, cengkeh, biji pala, kayu manis, dan air. Masak sampai daging menjadi empuk.",
@@ -2177,12 +2177,12 @@
         "Siram dengan kuah daging dan beri saus mayones.",
         "Selat Solo siap disajikan hangat-hangat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 3172,
+      "kalori": 3172,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Selat%20Solo.jpeg?alt=media&token=4153b3a2-2f24-4509-ab72-cb761d81c08b&_gl=1*lqszia*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDczOTguMC4wLjA."
     },
     {
-      "Nama Makanan": "Soto Banjar",
-      "Bahan-Bahan": [
+      "menu": "Soto Banjar",
+      "bahan": [
         "1 ekor ayam kampung",
         "1,5 liter kaldu ayam",
         "250 ml susu cair",
@@ -2205,7 +2205,7 @@
         "Jeruk nipis",
         "Kecap manis"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Cuci ayam, lalu potong menjadi 4 bagian.",
         "Rebus ayam menggunakan air sebanyak 3 liter dengan api sedang.",
         "Sambil menunggu ayam matang, haluskan bumbu terlebih dahulu.",
@@ -2223,12 +2223,12 @@
         "Tambahkan perasan jeruk nipis, kecap manis, dan taburi dengan seledri.",
         "Soto Banjar siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 2336,
+      "kalori": 2336,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Soto%20Banjar.jpg?alt=media&token=3514809d-e7fe-4665-8219-c0f59e53690e&_gl=1*bmd5lr*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDc0NjQuMC4wLjA."
     },
     {
-      "Nama Makanan": "Sayur Lodeh",
-      "Bahan-Bahan": [
+      "menu": "Sayur Lodeh",
+      "bahan": [
         "200 gram labu siam",
         "100 gram daun melinjo",
         "100 gram kacang panjang",
@@ -2249,7 +2249,7 @@
         "1 cm lengkuas",
         "1 buah tomat"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Kupas labu siam dan potong menjadi dadu.",
         "Potong kacang panjang sekitar 2 cm.",
         "Potong terong menjadi dadu.",
@@ -2261,12 +2261,12 @@
         "Tambahkan daun melinjo, cabe merah, dan terong. Masak hingga matang sempurna.",
         "Sayur lodeh siap disajikan bersama nasi hangat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1200,
+      "kalori": 1200,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Sayur%20Lodeh.jpg?alt=media&token=922bbb09-73f4-4539-95cc-4df36da28bcb&_gl=1*xinuv8*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDczNjAuMC4wLjA."
     },
     {
-      "Nama Makanan": "Gogos Ambon",
-      "Bahan-Bahan": [
+      "menu": "Gogos Ambon",
+      "bahan": [
         "250 gram beras ketan",
         "250 ml santan kental (terbuat dari 1 butir kelapa tua)",
         "2 lembar daun salam",
@@ -2277,7 +2277,7 @@
         "Daun pisang setengah tua untuk bagian luar",
         "Tusuk gigi"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Cuci beras ketan, rendam selama 2 jam, tiriskan, dan kukus selama 15 menit. Angkat dan sisihkan.",
         "Rebus santan, tambahkan serai, daun salam, dan garam. Masukkan beras ketan yang sudah dikukus.",
         "Aduk sampai santan meresap ke dalam ketan dan biarkan setengah matang. Angkat.",
@@ -2286,12 +2286,12 @@
         "Panggang di atas bara hingga matang.",
         "Gogos Ambon siap dimakan bersama secangkir kopi hangat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 600,
+      "kalori": 600,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Gogos%20Ambon.webp?alt=media&token=fc8dcfbd-d8a6-435f-a6ae-b49b70c1c30f&_gl=1*6jvw19*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDYyMjguMC4wLjA."
     },
     {
-      "Nama Makanan": "Bubur Tinutuan Manado",
-      "Bahan-Bahan": [
+      "menu": "Bubur Tinutuan Manado",
+      "bahan": [
         "100 gram beras (dicuci bersih)",
         "2 buah jagung manis (disisir)",
         "200 gram ubi jalar kuning (dikupas dan dipotong kecil)",
@@ -2314,7 +2314,7 @@
         "2 sendok makan jeruk nipis",
         "1/2 sendok teh garam"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Rebus air hingga mendidih, tambahkan beras dan daun salam.",
         "Setelah setengah matang, tambahkan jagung, ubi, dan labu. Masak hingga empuk.",
         "Masukkan kangkung, daun bayam, kacang panjang, kemangi, dan daun bawang. Masak hingga layu.",
@@ -2322,12 +2322,12 @@
         "Untuk sambal dabu-dabu, campurkan semua bahan sambal (cabe rawit merah, cabe rawit, bawang merah, tomat, jeruk nipis, dan garam).",
         "Sajikan Bubur Tinutuan Manado dengan taburan ikan asin dan sambal dabu-dabu."
       ],
-      "Jumlah Kalori per porsi (kkal)": 972,
+      "kalori": 972,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Bubur%20Tinutuan%20Manado.jpg?alt=media&token=b59524ed-bb61-49d9-a0fd-0dc0926ae3dc&_gl=1*1j7p3s3*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU4MzQuMC4wLjA."
     },
     {
-      "Nama Makanan": "Ayam Taliwang Lombok",
-      "Bahan-Bahan": [
+      "menu": "Ayam Taliwang Lombok",
+      "bahan": [
         "1 ekor ayam kampung (dicuci bersih)",
         "2 sendok teh air jeruk nipis",
         "2 sendok makan minyak goreng",
@@ -2342,7 +2342,7 @@
         "1 sendok makan garam",
         "7 sendok makan minyak untuk menumis"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Tumis bumbu halus (bawang merah, cabai merah, bawang putih, kencur, cabai rawit, tomat, gula merah, terasi, garam) sampai tercium aroma harum. Angkat dan sisihkan.",
         "Olesi permukaan ayam dengan minyak goreng.",
         "Bakar ayam yang sudah diolesi minyak goreng hingga berwarna kecoklatan.",
@@ -2350,12 +2350,12 @@
         "Bakar kembali ayam hingga matang secara keseluruhan.",
         "Ayam Taliwang Lombok siap disajikan."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1500,
+      "kalori": 1500,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Ayam%20Taliwang%20Lombok.jpg?alt=media&token=23d01c1f-f868-4c5f-854e-490cd09a8bdb&_gl=1*1y5z36l*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU0NzcuMC4wLjA."
     },
     {
-      "Nama Makanan": "Ayam Betutu Bali",
-      "Bahan-Bahan": [
+      "menu": "Ayam Betutu Bali",
+      "bahan": [
         "1 ekor ayam kampung (dibersihkan dan jeroannya disisihkan)",
         "2 batang serai (dimemarkan)",
         "2 lembar daun salam",
@@ -2376,7 +2376,7 @@
         "Gula (secukupnya)",
         "Kaldu ayam bubuk (secukupnya)"
       ],
-      "Langkah Pembuatan": [
+      "langkahPembuatan": [
         "Tumis bumbu halus (cabai merah besar, bawang merah, bawang putih, kunyit, jahe, lengkuas, kemiri, serai) sampai tercium aroma wangi dan matang. Angkat dan sisihkan sampai bumbu menjadi hangat.",
         "Lumuri ayam menggunakan bumbu yang sudah ditumis di seluruh permukaannya sampai rata.",
         "Anda bisa melumuri ayam dengan menambahkan perasan air jeruk nipis dan garam sebelum melumurinya dengan bumbu.",
@@ -2387,7 +2387,7 @@
         "Setelah matang, angkat dan buka bungkusnya.",
         "Ayam Betutu Bali siap dinikmati bersama nasi putih hangat."
       ],
-      "Jumlah Kalori per porsi (kkal)": 1560,
+      "kalori": 1560,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Ayam%20Betutu%20Bali.jpg?alt=media&token=d2d4764e-fef2-4c3b-9b5f-c69fe52358ec&_gl=1*1t2oaho*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDU0MDYuMC4wLjA."
     }
   ]
