@@ -105,9 +105,6 @@ app.get("/read/menu/:id", (req, res) => {
 });
 ```
 
-#### Data
-[will be edit]
-
 ### List Package
 This section We need users data for our application that is height, weight, and age using JSON.
 
@@ -139,8 +136,6 @@ app.post("/create/user", (req, res) => {
   })();
 })
 ```
-#### Data
-[will be edit]
 
 ### List Package
 This section We need users data for our application that is height, weight, and age that filtered by ID using JSON.
@@ -170,6 +165,3 @@ app.get("/read/user/:id", (req, res) => {
   })();
 })
 ```
-
-#### Data
-[will be edit]
