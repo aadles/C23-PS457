@@ -33,8 +33,8 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 
 ## Authors of TasteMatch
 - M335DSY0405 - <a href="https://github.com/aadles">Adriana Griselda</a>
-- M306DKY4804 - Syafira Widiyanti
-- C306DSY2859 - Annisa Agusti Andini
-- C169DSY3233 - Feby Rizki Imersa
-- A306DSX3120 - Achmad Azril Mutawazin
-- A131DSX1118 - Andi Mulya Firman
+- M306DKY4804 - <a href="https://github.com/lullabymav">Syafira Widiyanti</a>
+- C306DSY2859 - <a href="https://github.com/anisawaa">Annisa Agusti Andini</a>
+- C169DSY3233 - <a href="https://github.com/febyri">Feby Rizki Imersa</a>
+- A306DSX3120 - <a href="https://github.com/achmadmutawazin">Achmad Azril Mutawazin</a>
+- A131DSX1118 - <a href="https://github.com/AndiMulyaFirman">Andi Mulya Firman</a>
