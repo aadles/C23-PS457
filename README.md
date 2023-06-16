@@ -1,5 +1,5 @@
 # Cloud Computing Path
-Created a RESTful API using the Express framework and NodeJS to handle food menu data. The API is deployed using Cloud Functions, while Firebase's Firestore and Storage services are utilized for the database functionality.
+Created a RESTful API using the Express framework and NodeJS to handle food menu data and users data. The API is deployed using Cloud Functions, while Firebase's Firestore and Storage services are utilized for the database functionality.
 
 ## List Destination 
 
@@ -7,7 +7,7 @@ Created a RESTful API using the Express framework and NodeJS to handle food menu
 |------|------|
 | `GET` |   All Menu  |
 | `GET` |   Menu by Id   |
-| `POST` |   Data Users   |
+| `GET` |   Data Users   |
 | `POST` |   Data Users by Id   |
 
 In this section will exlpain about list of all menu using Express framework and NodeJS.
@@ -52,8 +52,9 @@ app.get("/read/menu", (req, res) => {
 ```
 ## List Destination 
 In this section will exlpain about list menu by Id using Express framework and NodeJS.
+
 ### Path
-/read/menu
+/read/user/:id
 
 ### Method
 `GET`
@@ -75,7 +76,7 @@ app.get("/read/menu/:id", (req, res) => {
   })();
 })
 ```
-### Data Menu
+## Data Menu
 ```
 "menu": [
     {
@@ -105,4 +106,61 @@ app.get("/read/menu/:id", (req, res) => {
       "kalori": 175,
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/bangkit-capstone-386710.appspot.com/o/Tahu%20Bulat.JPG?alt=media&token=94d26c0c-829b-452c-ab3f-967cfeb891a7&_gl=1*xibuyn*_ga*NzYzODA1MDc2LjE2ODYzNzI5NTk.*_ga_CW55HF8NVT*MTY4NjY0NDc3Ni4xMS4xLjE2ODY2NDUyMzUuMC4wLjA."
     }
+```
+
+## List Destination 
+In this section will exlpain about post users data using Express framework and NodeJS.
+
+### Path
+/create/user
+
+### Method
+`POST`
+
+### Code
+```
+app.post("/create/user", (req, res) => {
+  (async () => {
+    try {
+      const newUserRef = await db.collection("user").doc();
+      const newUser = {
+        height: req.body.height,
+        weight: req.body.weight,
+        age: req.body.age,
+      };
+      await newUserRef.set(newUser);
+      return res.status(200).send();
+    } catch (error) {
+      console.log(error);
+      return res.status(500).send(error);
+    }
+  })();
+});
+```
+
+## List Destination 
+In this section will exlpain about list users data by Id using Express framework and NodeJS.
+
+### Path
+/read/user/:id
+
+### Method
+`GET`
+
+### Code
+```
+app.get("/read/user/:id", (req, res) => {
+  (async () => {
+    try {
+      const document = db.collection("user").doc(req.params.id);
+      const user = await document.get();
+      const response = user.data();
+
+      return res.status(200).send(response);
+    } catch (error) {
+      console.log(error);
+      return res.status(500).send(error);
+    }
+  })();
+});
 ```
