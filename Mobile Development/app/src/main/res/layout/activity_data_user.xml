@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background_image"
+        android:layout_marginRight="-250dp"
+        tools:layout_editor_absoluteX="-117dp"
+        tools:layout_editor_absoluteY="-173dp" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".presentation.auth.login.LoginActivity">
+
+        <TextView
+            android:id="@+id/tv_data_user"
+            android:layout_width="wrap_content"
+            android:layout_height="42dp"
+            android:layout_marginTop="168dp"
+            android:fontFamily="@font/itcbook"
+            android:alpha="0"
+            android:text="@string/data_user_lable"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/edt_name"
+            android:layout_width="300dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="31dp"
+            android:alpha="0"
+            android:background="@drawable/background_border"
+            android:hint="@string/name_lable"
+            android:inputType="textEmailAddress"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data_user" />
+
+        <EditText
+            android:id="@+id/edt_age"
+            android:layout_width="300dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="16dp"
+            android:alpha="0"
+            android:background="@drawable/background_border"
+            android:hint="@string/age_lable"
+            android:inputType="textEmailAddress"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edt_name" />
+
+        <EditText
+            android:id="@+id/edt_height"
+            android:layout_width="300dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="16dp"
+            android:alpha="0"
+            android:background="@drawable/background_border"
+            android:hint="@string/height_lable"
+            android:inputType="textEmailAddress"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edt_age" />
+
+        <EditText
+            android:id="@+id/edt_weight"
+            android:layout_width="300dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="16dp"
+            android:alpha="0"
+            android:background="@drawable/background_border"
+            android:hint="@string/weight_lable"
+            android:inputType="textEmailAddress"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edt_height" />
+
+        <Button
+            android:id="@+id/btn_save"
+            android:layout_width="300dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="16dp"
+            android:alpha="0"
+            android:background="@drawable/background_border"
+            android:text="@string/save_lable"
+            android:textAllCaps="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edt_weight" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</RelativeLayout>
