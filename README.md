@@ -8,3 +8,18 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 - Object Detection
 - Meal Recomendation
 - Search feature
+
+## Screenshot Application
+
+## API Reference
+Base URL:
+> https://us-central1-bangkit-capstone-386710.cloudfunctions.net/app
+
+
+## Authors of TasteMatch
+- M335DSY0405 - Adriana Griselda
+- M306DKY4804 - Syafira Widiyanti
+- C306DSY2859 - Annisa Agusti Andini
+- C169DSY3233 - Feby Rizki Imersa
+- A306DSX3120 - Achmad Azril Mutawazin
+- A131DSX1118 - Andi Mulya Firman
