@@ -1,4 +1,3 @@
- ![image](https://github.com/aadles/C23-PS457/assets/91104773/7a7cae91-0b26-42e1-9a11-527d77f608f0)
  <img src="![image](https://github.com/aadles/C23-PS457/assets/91104773/64af687d-28e8-45a6-9ec9-8e4a7b78cd4e)" width="300">
 
 # TasteMatch
