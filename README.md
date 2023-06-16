@@ -1,4 +1,4 @@
-## MAchine Learning
+### Machine Learning
 
 # Steps
 - Collect the data images manually and from google.
