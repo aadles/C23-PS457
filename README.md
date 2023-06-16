@@ -15,10 +15,10 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 Base URL:
 > https://us-central1-bangkit-capstone-386710.cloudfunctions.net/app
 
-## Path
+### Path
 > /read/menu
 
-## Method
+### Method
 > `GET`
 
 ## Authors of TasteMatch
