@@ -12,7 +12,7 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 ## Screenshot Application
 
 ## API Reference
-Base URL:
+### Base URL:
 > https://us-central1-bangkit-capstone-386710.cloudfunctions.net/app
 
 ### Path
