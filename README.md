@@ -1,6 +1,6 @@
-### Machine Learning
+# Machine Learning
 
-# Steps
+## Steps
 - Collect the data images manually and from google.
 - Labeling the images with https://www.makesense.ai/
 - Split the data to train and test data.
