@@ -97,7 +97,3 @@ The TasteMatch app relies on the following dependencies:
 ## Contributing
 
 Contributions to the TasteMatch app are welcome! If you find any issues or have suggestions for improvements, please feel free to create a pull request or submit an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as you see fit.
