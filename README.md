@@ -32,7 +32,7 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 | `POST` |   Data Users by Id   |
 
 ## Authors of TasteMatch
-- M335DSY0405 - Adriana Griselda
+- M335DSY0405 - <a href="https://github.com/aadles">Adriana Griselda</a>
 - M306DKY4804 - Syafira Widiyanti
 - C306DSY2859 - Annisa Agusti Andini
 - C169DSY3233 - Feby Rizki Imersa
