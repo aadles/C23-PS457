@@ -7,8 +7,8 @@ Created a RESTful API using the Express framework and NodeJS to handle food menu
 |------|------|
 | `GET` |   All Menu  |
 | `GET` |   Menu by Id   |
-| `GET` |   Data Users   |
-| `POST` |   Data Users by Id   |
+| `GET` |   Data Users by Id   |
+| `POST` |   Data Users   |
 
 In this section will exlpain about list of all menu using Express framework and NodeJS.
 
