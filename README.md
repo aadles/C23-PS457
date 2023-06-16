@@ -10,8 +10,7 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 - Search feature
 
 ## Screenshot Application
-![image](https://github.com/aadles/C23-PS457/assets/91104773/e268e182-b251-4167-88a3-0075abd60ff6){height=50%}
-![image](https://github.com/aadles/C23-PS457/assets/91104773/109944d0-966c-4203-a7b8-2ef6e0843fea){height=50%}
+![image](https://github.com/aadles/C23-PS457/assets/91104773/0cdc7463-f99e-46fd-8786-321a065d109e){width=50%}
 
 
 
