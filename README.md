@@ -10,7 +10,6 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 - Search feature
 
 ## Screenshot Application
-![image](https://github.com/aadles/C23-PS457/assets/91104773/0cdc7463-f99e-46fd-8786-321a065d109e){width=50%}
 
 
 
@@ -26,10 +25,10 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 
 | Method | Description |
 |------|------|
-| `GET` | All Menu   |
-| `GET` | Menu by Id   |
-| `POST` | Data Users   |
-| `POST` | Data Users by Id   |
+| `GET` |   All Menu  |
+| `GET` |   Menu by Id   |
+| `POST` |   Data Users   |
+| `POST` |   Data Users by Id   |
 
 ## Authors of TasteMatch
 - M335DSY0405 - Adriana Griselda
