@@ -31,6 +31,11 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 | `GET` |   Data Users by Id   |
 | `POST` |   Data Users   |
 
+## Requirements
+- Android API level 26 or higher.
+- Kotlin version 1.8 or higher.
+
+
 ## Authors of TasteMatch
 - M335DSY0405 - <a href="https://github.com/aadles">Adriana Griselda</a>
 - M306DKY4804 - <a href="https://github.com/lullabymav">Syafira Widiyanti</a>
