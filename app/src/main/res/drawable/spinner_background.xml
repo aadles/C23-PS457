@@ -1,0 +1,23 @@
+<!-- spinner_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Shadow Layer -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <corners android:radius="8dp" />
+            <padding
+                android:left="4dp"
+                android:top="4dp"
+                android:right="4dp"
+                android:bottom="4dp" />
+        </shape>
+    </item>
+
+    <!-- Background Layer -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#6D7460" />
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TasteMatch</string>
+    <string name="app_Desc">Indonesian Meal Recommendation</string>
+    <string name="login_lable">Login</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="email_format">\\\'@\\\' Use Email Fromat!</string>
+    <string name="password_min">password of at least 8 characters</string>
+    <string name="register_lable">Register</string>
+    <string name="password_lable">Password</string>
+    <string name="email_lable">Email</string>
+    <string name="i_having_account">Already have account?</string>
+    <string name="username_lable">Username</string>
+    <string name="confirm_password_lable">Confirm Password</string>
+    <string name="data_user_lable">Input Data Profile</string>
+    <string name="save_lable">Save</string>
+    <string name="height_lable">Height</string>
+    <string name="age_lable">Age</string>
+    <string name="weight_lable">Weight</string>
+    <string name="name_lable">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="Setting">Setting</string>
+    <string name="menu_img">Gambar Menu</string>
+    <string name="image_description">Gambar menu</string>
+    <string name="bahan_title">Bahan</string>
+    <string name="langkah_pembuatan_title">Langkah Pembuatan</string>
+
+</resources>

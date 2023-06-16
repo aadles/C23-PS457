@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980075407450",
+    "firebase_url": "https://bangkit-capstone-386710-default-rtdb.firebaseio.com",
+    "project_id": "bangkit-capstone-386710",
+    "storage_bucket": "bangkit-capstone-386710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980075407450:android:df0b76339884f0cacf9063",
+        "android_client_info": {
+          "package_name": "com.capstone.tastematch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980075407450-e8m6l0hbucoo9mmp9t8ge1rh1r0ql4n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcpIU2bf9W7quE9-w7NWc4grtu0Z8nOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980075407450-e8m6l0hbucoo9mmp9t8ge1rh1r0ql4n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

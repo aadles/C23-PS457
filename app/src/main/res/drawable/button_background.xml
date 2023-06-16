@@ -1,0 +1,24 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#1E1E1E" /> <!-- Button background color when pressed -->
+            <corners android:radius="8dp" /> <!-- Corner radius for rounded corners -->
+            <padding
+                android:left="16dp"
+                android:top="12dp"
+                android:right="16dp"
+                android:bottom="12dp" /> <!-- Padding inside the button -->
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="#78886E" /> <!-- Button background color when not pressed -->
+            <corners android:radius="8dp" /> <!-- Corner radius for rounded corners -->
+            <padding
+                android:left="16dp"
+                android:top="12dp"
+                android:right="16dp"
+                android:bottom="12dp" /> <!-- Padding inside the button -->
+        </shape>
+    </item>
+</selector>
