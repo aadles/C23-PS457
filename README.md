@@ -7,7 +7,7 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 - Authentication
 - Object Detection
 - Meal Recomendation
-- Search feature
+- Search Feature
 
 ## Screenshot Application
 
