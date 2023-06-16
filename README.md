@@ -1,2 +1,9 @@
-# capstone_bangkit23
-TasteMatch -  Indonesian Meal Recommendation with Personalized Recipe - C23-PS457
+# MAchine Learning
+
+Steps
+Collect the data images manually and from google.
+Labeling the images with https://www.makesense.ai/
+Split the data to train and test data.
+Create TFRecord.
+Used the Object Detection API from Tensorflow https://github.com/tensorflow/models
+Save it in the form of TfLite.
