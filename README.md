@@ -2,3 +2,9 @@
 
 # TasteMatch
 TasteMatch - TasteMatch is a mobile application designed to help users solve the problem of meal planning and food waste by make meal recommendation with personalize recipe. TasteMatch using object detection to identify the food materials and find the right recipe based on the ingredients users have.
+
+## Feature
+- Authentication
+- Object Detection
+- Meal Recomendation
+- Search feature
