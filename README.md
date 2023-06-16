@@ -28,7 +28,7 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 |------|------|
 | `GET` |   All Menu  |
 | `GET` |   Menu by Id   |
-| `POST` |   Data Users   |
+| `GET` |   Data Users   |
 | `POST` |   Data Users by Id   |
 
 ## Authors of TasteMatch
