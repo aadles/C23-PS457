@@ -28,8 +28,8 @@ TasteMatch - TasteMatch is a mobile application designed to help users solve the
 |------|------|
 | `GET` |   All Menu  |
 | `GET` |   Menu by Id   |
-| `GET` |   Data Users   |
-| `POST` |   Data Users by Id   |
+| `GET` |   Data Users by Id   |
+| `POST` |   Data Users   |
 
 ## Authors of TasteMatch
 - M335DSY0405 - <a href="https://github.com/aadles">Adriana Griselda</a>
