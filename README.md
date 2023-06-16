@@ -1,5 +1,5 @@
 # Cloud Computing
-Creating RestAPI for foods menu API in mobile application and deploying to Google Cloud Platform using Cloud Function and using Firebase for database. We use NodeJS 
+Creating RestAPI for foods menu API in mobile application and deploying to Google Cloud Platform using Cloud Function and using Firebase for database. We use NodeJS. 
 
 ## RESTFul API
 
@@ -164,4 +164,29 @@ app.get("/read/user/:id", (req, res) => {
     }
   })();
 })
+```
+
+### List Package
+This section there is a import data JSON to Firestore.
+
+#### Code
+```
+const importData = async () => {
+  try {
+    for (const collectionName in data) {
+      const documents = data[collectionName];
+
+      for (const documentData of documents) {
+        await firestore.collection(collectionName).add(documentData);
+        console.log(`Document imported in collection '${collectionName}'`);
+      }
+
+      console.log(`All documents imported in collection '${collectionName}'`);
+    }
+
+    console.log('Data import completed successfully');
+  } catch (error) {
+    console.error('Error importing data:', error);
+  }
+}
 ```
